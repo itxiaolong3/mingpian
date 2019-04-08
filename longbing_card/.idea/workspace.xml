@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee743e30-5382-4eaf-9d89-98498564452c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/workerman/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>一级</find>
+      <find>insertid</find>
+      <find>pdo_get</find>
+      <find>$res['cash_fee']</find>
+      <find>$money</find>
+      <find>p_id</find>
+      <find>用户id/昵称</find>
+      <find>海报列表</find>
+      <find>pdo_fetall</find>
+      <find>pdo_fe</find>
+      <find>join</find>
+      <find>名片详情</find>
+      <find>company</find>
+      <find>分销关系</find>
+      <find>Userinfo</find>
+      <find>dopageUserinfo</find>
+      <find>分销管理</find>
+      <find>$timelineEdit</find>
+      <find>$userb</find>
+      <find>left</find>
+      <find>StaffCard</find>
+      <find>EditStaffV2</find>
+      <find>data-name=&quot;user&quot;</find>
+      <find>card</find>
+      <find>快捷方式</find>
+      <find>orders</find>
+      <find>您好，我是</find>
+      <find>cardEdit</find>
+      <find>cardshow</find>
+      <find>https://jin.itxiaolong.cn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>https://xiguoxiansheng.com</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\小程序项目\博胜名片\最新版\longbing_card\inc</dir>
+      <dir>E:\小程序项目\博胜名片\最新版\longbing_card</dir>
+      <dir>D:\小程序\博胜\longbing_card\template\manage</dir>
+      <dir>D:\小程序\博胜\longbing_card\template</dir>
+      <dir>D:\小程序\博胜\longbing_card</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/site.php" />
+        <option value="$PROJECT_DIR$/inc/web/manage/overview.inc.php" />
+        <option value="$PROJECT_DIR$/inc/wxapp/login.inc.php" />
+        <option value="E:/mydemo/index.php" />
+        <option value="$PROJECT_DIR$/inc/web/manage/randcodeedit.inc.php" />
+        <option value="$PROJECT_DIR$/template/manage/randcodeEdit.html" />
+        <option value="$PROJECT_DIR$/inc/web/manage/randcodelist.inc.php" />
+        <option value="$PROJECT_DIR$/images/js/main.js" />
+        <option value="$PROJECT_DIR$/template/manage/randcodelist.html" />
+        <option value="$PROJECT_DIR$/template/manage/config.html" />
+        <option value="$PROJECT_DIR$/inc/web/manage/config.inc.php" />
+        <option value="$PROJECT_DIR$/wxpay.php" />
+        <option value="$PROJECT_DIR$/template/manage/teamsetting.html" />
+        <option value="$PROJECT_DIR$/inc/web/manage/teamsetting.inc.php" />
+        <option value="$PROJECT_DIR$/payment/wechat/notify.php" />
+        <option value="$PROJECT_DIR$/template/manage/relationship.html" />
+        <option value="$PROJECT_DIR$/inc/web/manage/relationship.inc.php" />
+        <option value="$PROJECT_DIR$/template/manage/cardEdit.html" />
+        <option value="$PROJECT_DIR$/template/manage/userbook.html" />
+        <option value="$PROJECT_DIR$/inc/web/manage/userbook.inc.php" />
+        <option value="$PROJECT_DIR$/wxapp.php" />
+        <option value="$PROJECT_DIR$/inc/wxapp/editstaffv2.inc.php" />
+        <option value="$PROJECT_DIR$/module.php" />
+        <option value="$PROJECT_DIR$/manifest.xml" />
+        <option value="$PROJECT_DIR$/template/manage/overview.html" />
+        <option value="$PROJECT_DIR$/template/manage/index.html" />
+        <option value="$PROJECT_DIR$/inc/wxapp/cardshow.inc.php" />
+        <option value="$USER_HOME$/Desktop/hjmall_goods.sql" />
+        <option value="$USER_HOME$/Desktop/hjmall_goods_pic.sql" />
+        <option value="$USER_HOME$/Desktop/hjmall_upload_file.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="7" />
+    <option name="y" value="19" />
+    <option name="width" value="1932" />
+    <option name="height" value="1031" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="longbing_card" type="b2602c69:ProjectViewProjectNode" />
+              <item name="longbing_card" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\小程序\博胜\longbing_card\template\manage" />
+      <recent name="D:\小程序\博胜\longbing_card\inc\web\manage" />
+      <recent name="E:\小程序项目\博胜名片\最新版\longbing_card" />
+      <recent name="E:\小程序项目\博胜名片\最新版\longbing_card\inc\web\manage" />
+      <recent name="E:\小程序项目\博胜名片\最新版\longbing_card\template\manage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee743e30-5382-4eaf-9d89-98498564452c" name="Default" comment="" />
+      <created>1551489308753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551489308753</updated>
+      <workItem from="1551489310865" duration="7337000" />
+      <workItem from="1551755167786" duration="40229000" />
+      <workItem from="1552094268753" duration="12898000" />
+      <workItem from="1552292485018" duration="1508000" />
+      <workItem from="1552299073319" duration="1340000" />
+      <workItem from="1552305581069" duration="591000" />
+      <workItem from="1552354798952" duration="23688000" />
+      <workItem from="1552528686681" duration="79192000" />
+      <workItem from="1553219464374" duration="206000" />
+      <workItem from="1553223300517" duration="5541000" />
+      <workItem from="1553738291685" duration="14310000" />
+      <workItem from="1553907051777" duration="2104000" />
+      <workItem from="1554079970730" duration="1317000" />
+      <workItem from="1554687849993" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="190859000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13397947" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/template/manage/teamsetting.html</url>
+          <line>72</line>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/site.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/overview.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-416">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <marker date="1550583191885" expanded="true" signature="4178:4318" ph="SELECT id FR... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1550583191885" expanded="true" signature="5222:5403" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1550583191885" expanded="true" signature="5480:5692" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1550583191885" expanded="true" signature="5722:5930" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1550583191885" expanded="true" signature="6237:6338" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1550583191885" expanded="true" signature="6419:6599" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1550583191885" expanded="true" signature="6663:6822" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/users.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="414" column="9" selection-start-line="414" selection-start-column="9" selection-end-line="414" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/mydemo/index.php" />
+    <entry file="file://$PROJECT_DIR$/template/manage/randcodeEdit.html" />
+    <entry file="file://$PROJECT_DIR$/inc/wxapp/login.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="92" selection-start-line="92" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/randcodelist.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="104" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="914" column="9" selection-start-line="914" selection-start-column="9" selection-end-line="914" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/we7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6713" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/wxapp/shopmyorderdetail.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/config.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2444">
+          <caret line="94" column="154" selection-start-line="94" selection-start-column="147" selection-end-line="94" selection-end-column="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="157" selection-start-line="157" selection-end-line="159" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/wxapp/cardsv2.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/wxapp/cardv4.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workerman/mysql/src/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/teamsetting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="135" column="82" selection-start-line="135" selection-start-column="82" selection-end-line="135" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/teamsetting.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="39" column="82" selection-start-line="39" selection-start-column="82" selection-end-line="39" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/cash.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment/wechat/notify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/relationship1.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/relationship1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="77" column="51" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/poster.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3267">
+          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/layuiadmin/layui/css/modules/layim/html/msgbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="188" column="10" selection-start-line="188" selection-start-column="10" selection-end-line="188" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/randcodelist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="152" column="26" lean-forward="true" selection-start-line="152" selection-start-column="26" selection-end-line="152" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/relationship.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="440" column="13" selection-start-line="440" selection-start-column="13" selection-end-line="440" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#span#2;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#4;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#6;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#6;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#td#6;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#td#6;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#td#6;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#136#142#0" expanded="true" />
+            <element signature="e#142#148#0" expanded="true" />
+            <element signature="e#189#195#0" expanded="true" />
+            <element signature="e#195#201#0" expanded="true" />
+            <element signature="e#242#248#0" expanded="true" />
+            <element signature="e#248#254#0" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/relationship.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/timelineedit.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/timelineEdit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3120" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/phpqrcode/func_longbing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/timeline.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1287">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/userbook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="927">
+          <caret line="107" column="5" lean-forward="true" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/userbook.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/company.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/users.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3001">
+          <caret line="107" column="45" selection-start-line="107" selection-start-column="45" selection-end-line="107" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="161" column="34" selection-start-line="161" selection-start-column="34" selection-end-line="161" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxapp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="1934" column="47" selection-start-line="1934" selection-start-column="39" selection-end-line="1934" selection-end-column="47" />
+          <folding>
+            <element signature="e#1013#3578#0#PHP" />
+            <element signature="e#1099#1266#0#PHP" />
+            <element signature="e#1306#2582#0#PHP" />
+            <element signature="e#2481#2582#0#PHP" />
+            <element signature="e#2640#2729#0#PHP" />
+            <element signature="e#2738#2835#0#PHP" />
+            <element signature="e#2844#3388#0#PHP" />
+            <element signature="e#3323#3388#0#PHP" />
+            <element signature="e#3583#4127#0#PHP" />
+            <element signature="e#3808#4121#0#PHP" />
+            <element signature="e#4132#4693#0#PHP" />
+            <element signature="e#4698#5278#0#PHP" />
+            <element signature="e#5283#11562#0#PHP" />
+            <element signature="e#5577#5659#0#PHP" />
+            <element signature="e#5728#5839#0#PHP" />
+            <element signature="e#5901#6212#0#PHP" />
+            <element signature="e#6538#10379#0#PHP" />
+            <element signature="e#8103#10379#0#PHP" />
+            <element signature="e#10453#10908#0#PHP" />
+            <element signature="e#10917#11386#0#PHP" />
+            <element signature="e#11567#16636#0#PHP" />
+            <element signature="e#11742#11790#0#PHP" />
+            <element signature="e#11887#11980#0#PHP" />
+            <element signature="e#11989#12283#0#PHP" />
+            <element signature="e#12315#12399#0#PHP" />
+            <element signature="e#12408#13412#0#PHP" />
+            <element signature="e#12806#13412#0#PHP" />
+            <element signature="e#13532#13643#0#PHP" />
+            <element signature="e#14182#14300#0#PHP" />
+            <element signature="e#14858#14939#0#PHP" />
+            <element signature="e#15020#15516#0#PHP" />
+            <element signature="e#16354#16468#0#PHP" />
+            <element signature="e#16414#16468#0#PHP" />
+            <element signature="e#16477#16586#0#PHP" />
+            <element signature="e#16535#16586#0#PHP" />
+            <element signature="e#16641#21821#0#PHP" />
+            <element signature="e#16818#16866#0#PHP" />
+            <element signature="e#16963#17056#0#PHP" />
+            <element signature="e#17065#17359#0#PHP" />
+            <element signature="e#17391#17475#0#PHP" />
+            <element signature="e#17484#18437#0#PHP" />
+            <element signature="e#17882#18437#0#PHP" />
+            <element signature="e#18557#18668#0#PHP" />
+            <element signature="e#18967#19148#0#PHP" />
+            <element signature="e#19345#19463#0#PHP" />
+            <element signature="e#20021#20166#0#PHP" />
+            <element signature="e#20247#20743#0#PHP" />
+            <element signature="e#21539#21653#0#PHP" />
+            <element signature="e#21599#21653#0#PHP" />
+            <element signature="e#21662#21771#0#PHP" />
+            <element signature="e#21720#21771#0#PHP" />
+            <element signature="e#21826#33653#0#PHP" />
+            <element signature="e#21979#22027#0#PHP" />
+            <element signature="e#22095#22188#0#PHP" />
+            <element signature="e#22197#22491#0#PHP" />
+            <element signature="e#22523#22607#0#PHP" />
+            <element signature="e#22616#23569#0#PHP" />
+            <element signature="e#23014#23569#0#PHP" />
+            <element signature="e#23689#23800#0#PHP" />
+            <element signature="e#23809#24448#0#PHP" />
+            <element signature="e#24228#24448#0#PHP" />
+            <element signature="e#24457#24727#0#PHP" />
+            <element signature="e#24636#24727#0#PHP" />
+            <element signature="e#25026#25207#0#PHP" />
+            <element signature="e#25216#25310#0#PHP" />
+            <element signature="e#25319#25431#0#PHP" />
+            <element signature="e#25628#25746#0#PHP" />
+            <element signature="e#27114#27228#0#PHP" />
+            <element signature="e#27174#27228#0#PHP" />
+            <element signature="e#27237#27346#0#PHP" />
+            <element signature="e#27295#27346#0#PHP" />
+            <element signature="e#27452#27639#0#PHP" />
+            <element signature="e#27588#27639#0#PHP" />
+            <element signature="e#27756#28727#0#PHP" />
+            <element signature="e#27829#28727#0#PHP" />
+            <element signature="e#28968#30067#0#PHP" />
+            <element signature="e#29040#30067#0#PHP" />
+            <element signature="e#30221#33510#0#PHP" />
+            <element signature="e#32041#33510#0#PHP" />
+            <element signature="e#33658#35346#0#PHP" />
+            <element signature="e#33818#33911#0#PHP" />
+            <element signature="e#34152#35251#0#PHP" />
+            <element signature="e#34224#35251#0#PHP" />
+            <element signature="e#35351#36543#0#PHP" />
+            <element signature="e#35537#35638#0#PHP" />
+            <element signature="e#35647#35730#0#PHP" />
+            <element signature="e#35921#36398#0#PHP" />
+            <element signature="e#36094#36398#0#PHP" />
+            <element signature="e#36407#36481#0#PHP" />
+            <element signature="e#36548#37579#0#PHP" />
+            <element signature="e#37014#37123#0#PHP" />
+            <element signature="e#37275#37529#0#PHP" />
+            <element signature="e#37584#38257#0#PHP" />
+            <element signature="e#38062#38174#0#PHP" />
+            <element signature="e#38262#39699#0#PHP" />
+            <element signature="e#38513#38998#0#PHP" />
+            <element signature="e#39148#39649#0#PHP" />
+            <element signature="e#39704#40639#0#PHP" />
+            <element signature="e#39882#39991#0#PHP" />
+            <element signature="e#40060#40171#0#PHP" />
+            <element signature="e#40332#40426#0#PHP" />
+            <element signature="e#40644#42022#0#PHP" />
+            <element signature="e#40859#40956#0#PHP" />
+            <element signature="e#40965#41044#0#PHP" />
+            <element signature="e#41338#41447#0#PHP" />
+            <element signature="e#41659#41719#0#PHP" />
+            <element signature="e#42027#43079#0#PHP" />
+            <element signature="e#42207#42286#0#PHP" />
+            <element signature="e#42295#42375#0#PHP" />
+            <element signature="e#42567#42939#0#PHP" />
+            <element signature="e#42733#42939#0#PHP" />
+            <element signature="e#42948#43022#0#PHP" />
+            <element signature="e#43084#44601#0#PHP" />
+            <element signature="e#43262#43356#0#PHP" />
+            <element signature="e#43498#43585#0#PHP" />
+            <element signature="e#43594#43692#0#PHP" />
+            <element signature="e#43701#43798#0#PHP" />
+            <element signature="e#43913#44024#0#PHP" />
+            <element signature="e#44208#44416#0#PHP" />
+            <element signature="e#44606#46057#0#PHP" />
+            <element signature="e#44803#44893#0#PHP" />
+            <element signature="e#44902#44981#0#PHP" />
+            <element signature="e#45096#45180#0#PHP" />
+            <element signature="e#45189#45284#0#PHP" />
+            <element signature="e#45293#45387#0#PHP" />
+            <element signature="e#45533#45620#0#PHP" />
+            <element signature="e#45629#45726#0#PHP" />
+            <element signature="e#45785#45877#0#PHP" />
+            <element signature="e#46062#50680#0#PHP" />
+            <element signature="e#46254#46363#0#PHP" />
+            <element signature="e#46452#46524#0#PHP" />
+            <element signature="e#46633#47005#0#PHP" />
+            <element signature="e#47574#49484#0#PHP" />
+            <element signature="e#49598#49671#0#PHP" />
+            <element signature="e#49716#50101#0#PHP" />
+            <element signature="e#50363#50630#0#PHP" />
+            <element signature="e#50685#51570#0#PHP" />
+            <element signature="e#50896#50985#0#PHP" />
+            <element signature="e#51086#51226#0#PHP" />
+            <element signature="e#51330#51474#0#PHP" />
+            <element signature="e#51575#53101#0#PHP" />
+            <element signature="e#51800#51909#0#PHP" />
+            <element signature="e#51918#51997#0#PHP" />
+            <element signature="e#52006#52086#0#PHP" />
+            <element signature="e#52095#52342#0#PHP" />
+            <element signature="e#52536#52900#0#PHP" />
+            <element signature="e#52698#52900#0#PHP" />
+            <element signature="e#52970#53044#0#PHP" />
+            <element signature="e#53106#54470#0#PHP" />
+            <element signature="e#53369#53478#0#PHP" />
+            <element signature="e#53487#53566#0#PHP" />
+            <element signature="e#53575#53655#0#PHP" />
+            <element signature="e#53664#53753#0#PHP" />
+            <element signature="e#53762#54009#0#PHP" />
+            <element signature="e#54339#54413#0#PHP" />
+            <element signature="e#54475#56179#0#PHP" />
+            <element signature="e#54700#54809#0#PHP" />
+            <element signature="e#54818#54897#0#PHP" />
+            <element signature="e#54906#54986#0#PHP" />
+            <element signature="e#55066#55150#0#PHP" />
+            <element signature="e#55159#55254#0#PHP" />
+            <element signature="e#55263#55357#0#PHP" />
+            <element signature="e#55435#55516#0#PHP" />
+            <element signature="e#55556#55774#0#PHP" />
+            <element signature="e#55886#56129#0#PHP" />
+            <element signature="e#55980#56129#0#PHP" />
+            <element signature="e#56184#56798#0#PHP" />
+            <element signature="e#56277#56362#0#PHP" />
+            <element signature="e#56371#56531#0#PHP" />
+            <element signature="e#56421#56531#0#PHP" />
+            <element signature="e#56803#59080#0#PHP" />
+            <element signature="e#57049#57133#0#PHP" />
+            <element signature="e#57142#57521#0#PHP" />
+            <element signature="e#57530#57646#0#PHP" />
+            <element signature="e#57685#57796#0#PHP" />
+            <element signature="e#57805#57944#0#PHP" />
+            <element signature="e#57953#58140#0#PHP" />
+            <element signature="e#58483#58567#0#PHP" />
+            <element signature="e#58699#58780#0#PHP" />
+            <element signature="e#59085#61847#0#PHP" />
+            <element signature="e#59360#59444#0#PHP" />
+            <element signature="e#59453#59569#0#PHP" />
+            <element signature="e#59608#59719#0#PHP" />
+            <element signature="e#59728#59867#0#PHP" />
+            <element signature="e#59876#60063#0#PHP" />
+            <element signature="e#60328#61061#0#PHP" />
+            <element signature="e#60776#61061#0#PHP" />
+            <element signature="e#61156#61662#0#PHP" />
+            <element signature="e#61488#61662#0#PHP" />
+            <element signature="e#61852#62450#0#PHP" />
+            <element signature="e#62174#62293#0#PHP" />
+            <element signature="e#62455#63289#0#PHP" />
+            <element signature="e#62634#62732#0#PHP" />
+            <element signature="e#62741#63237#0#PHP" />
+            <element signature="e#63294#64127#0#PHP" />
+            <element signature="e#63508#63617#0#PHP" />
+            <element signature="e#63626#64074#0#PHP" />
+            <element signature="e#64132#64872#0#PHP" />
+            <element signature="e#64311#64397#0#PHP" />
+            <element signature="e#64406#64510#0#PHP" />
+            <element signature="e#64744#64818#0#PHP" />
+            <element signature="e#64877#65405#0#PHP" />
+            <element signature="e#65255#65334#0#PHP" />
+            <element signature="e#65410#67398#0#PHP" />
+            <element signature="e#65777#65903#0#PHP" />
+            <element signature="e#65912#65997#0#PHP" />
+            <element signature="e#66173#66261#0#PHP" />
+            <element signature="e#66474#66936#0#PHP" />
+            <element signature="e#66598#66936#0#PHP" />
+            <element signature="e#67187#67303#0#PHP" />
+            <element signature="e#67403#67877#0#PHP" />
+            <element signature="e#67561#67634#0#PHP" />
+            <element signature="e#67747#67821#0#PHP" />
+            <element signature="e#67882#71342#0#PHP" />
+            <element signature="e#68142#68226#0#PHP" />
+            <element signature="e#68235#68309#0#PHP" />
+            <element signature="e#68378#68489#0#PHP" />
+            <element signature="e#68668#71186#0#PHP" />
+            <element signature="e#71347#73311#0#PHP" />
+            <element signature="e#71567#71641#0#PHP" />
+            <element signature="e#71725#71832#0#PHP" />
+            <element signature="e#73316#77019#0#PHP" />
+            <element signature="e#73535#73609#0#PHP" />
+            <element signature="e#73693#73800#0#PHP" />
+            <element signature="e#77024#81120#0#PHP" />
+            <element signature="e#77177#77251#0#PHP" />
+            <element signature="e#77740#77956#0#PHP" />
+            <element signature="e#77988#78027#0#PHP" />
+            <element signature="e#78060#78189#0#PHP" />
+            <element signature="e#78323#78434#0#PHP" />
+            <element signature="e#78590#78693#0#PHP" />
+            <element signature="e#78975#80185#0#PHP" />
+            <element signature="e#80291#80738#0#PHP" />
+            <element signature="e#80888#80952#0#PHP" />
+            <element signature="e#81125#83574#0#PHP" />
+            <element signature="e#81343#81430#0#PHP" />
+            <element signature="e#81469#81562#0#PHP" />
+            <element signature="e#81571#82834#0#PHP" />
+            <element signature="e#81856#82834#0#PHP" />
+            <element signature="e#82869#83037#0#PHP" />
+            <element signature="e#83046#83285#0#PHP" />
+            <element signature="e#83294#83449#0#PHP" />
+            <element signature="e#83579#85535#0#PHP" />
+            <element signature="e#83793#83879#0#PHP" />
+            <element signature="e#83987#84368#0#PHP" />
+            <element signature="e#84476#84857#0#PHP" />
+            <element signature="e#85064#85481#0#PHP" />
+            <element signature="e#85540#90303#0#PHP" />
+            <element signature="e#85732#85806#0#PHP" />
+            <element signature="e#85846#85892#0#PHP" />
+            <element signature="e#85901#86394#0#PHP" />
+            <element signature="e#85930#86043#0#PHP" />
+            <element signature="e#86056#86170#0#PHP" />
+            <element signature="e#86183#86284#0#PHP" />
+            <element signature="e#86297#86384#0#PHP" />
+            <element signature="e#86487#87784#0#PHP" />
+            <element signature="e#86592#87784#0#PHP" />
+            <element signature="e#87898#89183#0#PHP" />
+            <element signature="e#88014#89183#0#PHP" />
+            <element signature="e#90102#90211#0#PHP" />
+            <element signature="e#90505#90592#0#PHP" />
+            <element signature="e#90777#91135#0#PHP" />
+            <element signature="e#90936#91135#0#PHP" />
+            <element signature="e#91471#93412#0#PHP" />
+            <element signature="e#91595#91668#0#PHP" />
+            <element signature="e#91737#91848#0#PHP" />
+            <element signature="e#92318#92408#0#PHP" />
+            <element signature="e#92417#92513#0#PHP" />
+            <element signature="e#92522#93260#0#PHP" />
+            <element signature="e#93417#94938#0#PHP" />
+            <element signature="e#93604#93689#0#PHP" />
+            <element signature="e#93758#93869#0#PHP" />
+            <element signature="e#93986#94070#0#PHP" />
+            <element signature="e#94103#94193#0#PHP" />
+            <element signature="e#94237#94622#0#PHP" />
+            <element signature="e#94460#94622#0#PHP" />
+            <element signature="e#94692#94889#0#PHP" />
+            <element signature="e#94943#96052#0#PHP" />
+            <element signature="e#95067#95140#0#PHP" />
+            <element signature="e#95209#95320#0#PHP" />
+            <element signature="e#95578#95900#0#PHP" />
+            <element signature="e#96057#96779#0#PHP" />
+            <element signature="e#96236#96317#0#PHP" />
+            <element signature="e#96445#96519#0#PHP" />
+            <element signature="e#96652#96726#0#PHP" />
+            <element signature="e#96784#98055#0#PHP" />
+            <element signature="e#97051#97135#0#PHP" />
+            <element signature="e#97144#97477#0#PHP" />
+            <element signature="e#97724#98002#0#PHP" />
+            <element signature="e#98060#100116#0#PHP" />
+            <element signature="e#98288#98385#0#PHP" />
+            <element signature="e#98418#98745#0#PHP" />
+            <element signature="e#98973#100063#0#PHP" />
+            <element signature="e#100121#100875#0#PHP" />
+            <element signature="e#100329#100410#0#PHP" />
+            <element signature="e#100525#100605#0#PHP" />
+            <element signature="e#100748#100822#0#PHP" />
+            <element signature="e#101281#101392#0#PHP" />
+            <element signature="e#101401#101554#0#PHP" />
+            <element signature="e#101563#101764#0#PHP" />
+            <element signature="e#101773#101883#0#PHP" />
+            <element signature="e#101927#102018#0#PHP" />
+            <element signature="e#102027#102140#0#PHP" />
+            <element signature="e#102179#102270#0#PHP" />
+            <element signature="e#102530#102642#0#PHP" />
+            <element signature="e#102651#102757#0#PHP" />
+            <element signature="e#103088#103874#0#PHP" />
+            <element signature="e#103239#103312#0#PHP" />
+            <element signature="e#103381#103492#0#PHP" />
+            <element signature="e#103879#105304#0#PHP" />
+            <element signature="e#104059#104140#0#PHP" />
+            <element signature="e#104250#105149#0#PHP" />
+            <element signature="e#105309#106163#0#PHP" />
+            <element signature="e#105491#105572#0#PHP" />
+            <element signature="e#105730#106113#0#PHP" />
+            <element signature="e#106168#108119#0#PHP" />
+            <element signature="e#106354#106410#0#PHP" />
+            <element signature="e#106419#106492#0#PHP" />
+            <element signature="e#106561#106672#0#PHP" />
+            <element signature="e#106893#107967#0#PHP" />
+            <element signature="e#108124#110847#0#PHP" />
+            <element signature="e#108328#108384#0#PHP" />
+            <element signature="e#108428#108517#0#PHP" />
+            <element signature="e#108586#108697#0#PHP" />
+            <element signature="e#109061#110695#0#PHP" />
+            <element signature="e#110852#114682#0#PHP" />
+            <element signature="e#111091#111147#0#PHP" />
+            <element signature="e#111156#111245#0#PHP" />
+            <element signature="e#111434#111495#0#PHP" />
+            <element signature="e#111605#111699#0#PHP" />
+            <element signature="e#111812#112055#0#PHP" />
+            <element signature="e#112206#112290#0#PHP" />
+            <element signature="e#112652#112707#0#PHP" />
+            <element signature="e#112896#114142#0#PHP" />
+            <element signature="e#114151#114485#0#PHP" />
+            <element signature="e#114494#114632#0#PHP" />
+            <element signature="e#114687#116030#0#PHP" />
+            <element signature="e#114915#114971#0#PHP" />
+            <element signature="e#115015#115104#0#PHP" />
+            <element signature="e#115532#115868#0#PHP" />
+            <element signature="e#115754#115868#0#PHP" />
+            <element signature="e#115877#115967#0#PHP" />
+            <element signature="e#116035#118080#0#PHP" />
+            <element signature="e#116198#116254#0#PHP" />
+            <element signature="e#116314#117018#0#PHP" />
+            <element signature="e#117108#117392#0#PHP" />
+            <element signature="e#117347#117392#0#PHP" />
+            <element signature="e#117474#117564#0#PHP" />
+            <element signature="e#117592#117673#0#PHP" />
+            <element signature="e#117714#117994#0#PHP" />
+            <element signature="e#117882#117994#0#PHP" />
+            <element signature="e#118085#120932#0#PHP" />
+            <element signature="e#118273#118329#0#PHP" />
+            <element signature="e#118451#118540#0#PHP" />
+            <element signature="e#118549#118628#0#PHP" />
+            <element signature="e#118637#119506#0#PHP" />
+            <element signature="e#119618#120025#0#PHP" />
+            <element signature="e#119971#120025#0#PHP" />
+            <element signature="e#120174#120256#0#PHP" />
+            <element signature="e#120479#120879#0#PHP" />
+            <element signature="e#120937#121604#0#PHP" />
+            <element signature="e#121166#121222#0#PHP" />
+            <element signature="e#121258#121345#0#PHP" />
+            <element signature="e#121477#121551#0#PHP" />
+            <element signature="e#121609#122335#0#PHP" />
+            <element signature="e#121809#121865#0#PHP" />
+            <element signature="e#121874#121953#0#PHP" />
+            <element signature="e#122095#122285#0#PHP" />
+            <element signature="e#122340#122432#0#PHP" />
+            <element signature="e#122437#125308#0#PHP" />
+            <element signature="e#122808#122931#0#PHP" />
+            <element signature="e#122940#123033#0#PHP" />
+            <element signature="e#123377#123484#0#PHP" />
+            <element signature="e#123618#124037#0#PHP" />
+            <element signature="e#123858#124037#0#PHP" />
+            <element signature="e#124210#125249#0#PHP" />
+            <element signature="e#125313#132767#0#PHP" />
+            <element signature="e#125536#125592#0#PHP" />
+            <element signature="e#125601#125675#0#PHP" />
+            <element signature="e#125744#125855#0#PHP" />
+            <element signature="e#125864#132761#0#PHP" />
+            <element signature="e#128462#132761#0#PHP" />
+            <element signature="e#132772#151305#0#PHP" />
+            <element signature="e#132997#133053#0#PHP" />
+            <element signature="e#133062#133136#0#PHP" />
+            <element signature="e#133205#133316#0#PHP" />
+            <element signature="e#133325#151299#0#PHP" />
+            <element signature="e#137523#151299#0#PHP" />
+            <element signature="e#151310#152577#0#PHP" />
+            <element signature="e#151535#151591#0#PHP" />
+            <element signature="e#151600#151677#0#PHP" />
+            <element signature="e#151796#151876#0#PHP" />
+            <element signature="e#152103#152239#0#PHP" />
+            <element signature="e#152582#156362#0#PHP" />
+            <element signature="e#152808#152864#0#PHP" />
+            <element signature="e#152873#152950#0#PHP" />
+            <element signature="e#152990#153036#0#PHP" />
+            <element signature="e#153045#153538#0#PHP" />
+            <element signature="e#153074#153187#0#PHP" />
+            <element signature="e#153200#153314#0#PHP" />
+            <element signature="e#153327#153428#0#PHP" />
+            <element signature="e#153441#153528#0#PHP" />
+            <element signature="e#153801#153881#0#PHP" />
+            <element signature="e#153929#155734#0#PHP" />
+            <element signature="e#154025#155734#0#PHP" />
+            <element signature="e#156011#156312#0#PHP" />
+            <element signature="e#156367#157510#0#PHP" />
+            <element signature="e#156641#156697#0#PHP" />
+            <element signature="e#156706#156783#0#PHP" />
+            <element signature="e#156792#156842#0#PHP" />
+            <element signature="e#157121#157374#0#PHP" />
+            <element signature="e#157245#157374#0#PHP" />
+            <element signature="e#157383#157457#0#PHP" />
+            <element signature="e#157515#158721#0#PHP" />
+            <element signature="e#157685#157741#0#PHP" />
+            <element signature="e#158726#163251#0#PHP" />
+            <element signature="e#158945#159001#0#PHP" />
+            <element signature="e#159047#159124#0#PHP" />
+            <element signature="e#159133#159179#0#PHP" />
+            <element signature="e#159188#159681#0#PHP" />
+            <element signature="e#159217#159330#0#PHP" />
+            <element signature="e#159343#159457#0#PHP" />
+            <element signature="e#159470#159571#0#PHP" />
+            <element signature="e#159584#159671#0#PHP" />
+            <element signature="e#159944#160024#0#PHP" />
+            <element signature="e#160284#160361#0#PHP" />
+            <element signature="e#160389#160471#0#PHP" />
+            <element signature="e#160512#162925#0#PHP" />
+            <element signature="e#161748#162925#0#PHP" />
+            <element signature="e#162954#163028#0#PHP" />
+            <element signature="e#163037#163201#0#PHP" />
+            <element signature="e#163256#165883#0#PHP" />
+            <element signature="e#163479#163535#0#PHP" />
+            <element signature="e#163544#163621#0#PHP" />
+            <element signature="e#163759#163839#0#PHP" />
+            <element signature="e#163912#163958#0#PHP" />
+            <element signature="e#163967#164020#0#PHP" />
+            <element signature="e#164029#164522#0#PHP" />
+            <element signature="e#164058#164171#0#PHP" />
+            <element signature="e#164184#164298#0#PHP" />
+            <element signature="e#164311#164412#0#PHP" />
+            <element signature="e#164425#164512#0#PHP" />
+            <element signature="e#164987#165604#0#PHP" />
+            <element signature="e#165613#165831#0#PHP" />
+            <element signature="e#165734#165831#0#PHP" />
+            <element signature="e#165888#174495#0#PHP" />
+            <element signature="e#166117#166196#0#PHP" />
+            <element signature="e#166205#166251#0#PHP" />
+            <element signature="e#166310#166421#0#PHP" />
+            <element signature="e#166449#166560#0#PHP" />
+            <element signature="e#166625#168224#0#PHP" />
+            <element signature="e#168233#168716#0#PHP" />
+            <element signature="e#168725#173155#0#PHP" />
+            <element signature="e#173164#174327#0#PHP" />
+            <element signature="e#174500#175760#0#PHP" />
+            <element signature="e#174798#174854#0#PHP" />
+            <element signature="e#174863#174909#0#PHP" />
+            <element signature="e#174918#175010#0#PHP" />
+            <element signature="e#175399#175624#0#PHP" />
+            <element signature="e#175633#175707#0#PHP" />
+            <element signature="e#175765#176669#0#PHP" />
+            <element signature="e#176018#176074#0#PHP" />
+            <element signature="e#176083#176168#0#PHP" />
+            <element signature="e#176366#176447#0#PHP" />
+            <element signature="e#176542#176616#0#PHP" />
+            <element signature="e#176674#177427#0#PHP" />
+            <element signature="e#176890#176946#0#PHP" />
+            <element signature="e#176955#177027#0#PHP" />
+            <element signature="e#177131#177212#0#PHP" />
+            <element signature="e#177300#177374#0#PHP" />
+            <element signature="e#177432#181004#0#PHP" />
+            <element signature="e#177636#177692#0#PHP" />
+            <element signature="e#177701#177805#0#PHP" />
+            <element signature="e#177849#179333#0#PHP" />
+            <element signature="e#179342#179576#0#PHP" />
+            <element signature="e#180022#180133#0#PHP" />
+            <element signature="e#180261#180836#0#PHP" />
+            <element signature="e#181009#184269#0#PHP" />
+            <element signature="e#181266#181322#0#PHP" />
+            <element signature="e#181366#181454#0#PHP" />
+            <element signature="e#181463#181509#0#PHP" />
+            <element signature="e#181518#182011#0#PHP" />
+            <element signature="e#182471#182595#0#PHP" />
+            <element signature="e#183026#183156#0#PHP" />
+            <element signature="e#183575#183702#0#PHP" />
+            <element signature="e#183907#184038#0#PHP" />
+            <element signature="e#184047#184219#0#PHP" />
+            <element signature="e#184274#184995#0#PHP" />
+            <element signature="e#184502#184550#0#PHP" />
+            <element signature="e#184559#184646#0#PHP" />
+            <element signature="e#184868#184942#0#PHP" />
+            <element signature="e#185000#187716#0#PHP" />
+            <element signature="e#185257#185313#0#PHP" />
+            <element signature="e#185357#185421#0#PHP" />
+            <element signature="e#185430#185518#0#PHP" />
+            <element signature="e#185546#185713#0#PHP" />
+            <element signature="e#185747#187666#0#PHP" />
+            <element signature="e#187721#188522#0#PHP" />
+            <element signature="e#187951#188007#0#PHP" />
+            <element signature="e#188051#188139#0#PHP" />
+            <element signature="e#188527#201530#0#PHP" />
+            <element signature="e#188769#188825#0#PHP" />
+            <element signature="e#188869#188915#0#PHP" />
+            <element signature="e#188924#189012#0#PHP" />
+            <element signature="e#189021#189589#0#PHP" />
+            <element signature="e#189854#190006#0#PHP" />
+            <element signature="e#190218#190362#0#PHP" />
+            <element signature="e#190528#192085#0#PHP" />
+            <element signature="e#192275#192430#0#PHP" />
+            <element signature="e#192610#195924#0#PHP" />
+            <element signature="e#196104#198727#0#PHP" />
+            <element signature="e#198905#199062#0#PHP" />
+            <element signature="e#199239#199395#0#PHP" />
+            <element signature="e#199573#199730#0#PHP" />
+            <element signature="e#199927#201094#0#PHP" />
+            <element signature="e#201103#201285#0#PHP" />
+            <element signature="e#201366#201480#0#PHP" />
+            <element signature="e#201535#202799#0#PHP" />
+            <element signature="e#201757#201813#0#PHP" />
+            <element signature="e#201857#201945#0#PHP" />
+            <element signature="e#202058#202438#0#PHP" />
+            <element signature="e#202447#202533#0#PHP" />
+            <element signature="e#202672#202746#0#PHP" />
+            <element signature="e#202804#203668#0#PHP" />
+            <element signature="e#203008#203064#0#PHP" />
+            <element signature="e#203108#203196#0#PHP" />
+            <element signature="e#203322#203402#0#PHP" />
+            <element signature="e#203541#203615#0#PHP" />
+            <element signature="e#203673#204361#0#PHP" />
+            <element signature="e#203900#203956#0#PHP" />
+            <element signature="e#204000#204088#0#PHP" />
+            <element signature="e#204201#204306#0#PHP" />
+            <element signature="e#204366#205440#0#PHP" />
+            <element signature="e#204548#204604#0#PHP" />
+            <element signature="e#204648#204721#0#PHP" />
+            <element signature="e#204842#204922#0#PHP" />
+            <element signature="e#204931#205021#0#PHP" />
+            <element signature="e#205138#205214#0#PHP" />
+            <element signature="e#205445#206158#0#PHP" />
+            <element signature="e#205589#205662#0#PHP" />
+            <element signature="e#205783#205863#0#PHP" />
+            <element signature="e#205872#205962#0#PHP" />
+            <element signature="e#206163#207298#0#PHP" />
+            <element signature="e#206348#206421#0#PHP" />
+            <element signature="e#206604#206995#0#PHP" />
+            <element signature="e#207004#207230#0#PHP" />
+            <element signature="e#209281#212067#0#PHP" />
+            <element signature="e#209443#209499#0#PHP" />
+            <element signature="e#209543#209636#0#PHP" />
+            <element signature="e#209763#209846#0#PHP" />
+            <element signature="e#209855#209894#0#PHP" />
+            <element signature="e#210609#210694#0#PHP" />
+            <element signature="e#210882#211664#0#PHP" />
+            <element signature="e#211673#212004#0#PHP" />
+            <element signature="e#212072#212628#0#PHP" />
+            <element signature="e#212295#212383#0#PHP" />
+            <element signature="e#212466#212576#0#PHP" />
+            <element signature="e#212633#217543#0#PHP" />
+            <element signature="e#212821#212907#0#PHP" />
+            <element signature="e#212957#213003#0#PHP" />
+            <element signature="e#213012#217537#0#PHP" />
+            <element signature="e#217548#223075#0#PHP" />
+            <element signature="e#217896#218006#0#PHP" />
+            <element signature="e#218046#218132#0#PHP" />
+            <element signature="e#218479#218640#0#PHP" />
+            <element signature="e#218649#218730#0#PHP" />
+            <element signature="e#218739#218830#0#PHP" />
+            <element signature="e#218874#218998#0#PHP" />
+            <element signature="e#219094#220690#0#PHP" />
+            <element signature="e#220699#221948#0#PHP" />
+            <element signature="e#221957#222055#0#PHP" />
+            <element signature="e#222107#222183#0#PHP" />
+            <element signature="e#222241#222340#0#PHP" />
+            <element signature="e#222818#222906#0#PHP" />
+            <element signature="e#223080#229134#0#PHP" />
+            <element signature="e#223328#223383#0#PHP" />
+            <element signature="e#223677#223736#0#PHP" />
+            <element signature="e#223910#223995#0#PHP" />
+            <element signature="e#224004#224053#0#PHP" />
+            <element signature="e#224116#224178#0#PHP" />
+            <element signature="e#224187#224293#0#PHP" />
+            <element signature="e#224638#226623#0#PHP" />
+            <element signature="e#226632#227954#0#PHP" />
+            <element signature="e#227963#229107#0#PHP" />
+            <element signature="e#229139#234147#0#PHP" />
+            <element signature="e#229386#229465#0#PHP" />
+            <element signature="e#229474#229687#0#PHP" />
+            <element signature="e#229716#229999#0#PHP" />
+            <element signature="e#230008#232411#0#PHP" />
+            <element signature="e#232420#233492#0#PHP" />
+            <element signature="e#233501#234062#0#PHP" />
+            <element signature="e#234071#234119#0#PHP" />
+            <element signature="e#234152#236644#0#PHP" />
+            <element signature="e#234361#235070#0#PHP" />
+            <element signature="e#235079#236616#0#PHP" />
+            <element signature="e#236649#240037#0#PHP" />
+            <element signature="e#236877#236975#0#PHP" />
+            <element signature="e#237267#237308#0#PHP" />
+            <element signature="e#237317#237420#0#PHP" />
+            <element signature="e#237502#237626#0#PHP" />
+            <element signature="e#237792#239018#0#PHP" />
+            <element signature="e#239027#239123#0#PHP" />
+            <element signature="e#239178#239252#0#PHP" />
+            <element signature="e#239780#239868#0#PHP" />
+            <element signature="e#240042#240548#0#PHP" />
+            <element signature="e#240250#240498#0#PHP" />
+            <element signature="e#240553#241328#0#PHP" />
+            <element signature="e#240805#240861#0#PHP" />
+            <element signature="e#240870#240965#0#PHP" />
+            <element signature="e#241201#241275#0#PHP" />
+            <element signature="e#241333#242263#0#PHP" />
+            <element signature="e#241555#241611#0#PHP" />
+            <element signature="e#241863#242196#0#PHP" />
+            <element signature="e#242268#242724#0#PHP" />
+            <element signature="e#242510#242657#0#PHP" />
+            <element signature="e#242729#243129#0#PHP" />
+            <element signature="e#243134#248035#0#PHP" />
+            <element signature="e#243456#243915#0#PHP" />
+            <element signature="e#243977#244041#0#PHP" />
+            <element signature="e#244292#244637#0#PHP" />
+            <element signature="e#244810#244863#0#PHP" />
+            <element signature="e#245034#245096#0#PHP" />
+            <element signature="e#245257#245319#0#PHP" />
+            <element signature="e#245480#245542#0#PHP" />
+            <element signature="e#245703#245765#0#PHP" />
+            <element signature="e#245928#245990#0#PHP" />
+            <element signature="e#246153#246215#0#PHP" />
+            <element signature="e#246404#246466#0#PHP" />
+            <element signature="e#246627#246689#0#PHP" />
+            <element signature="e#246850#246912#0#PHP" />
+            <element signature="e#247073#247135#0#PHP" />
+            <element signature="e#247241#247325#0#PHP" />
+            <element signature="e#247472#247534#0#PHP" />
+            <element signature="e#247590#247643#0#PHP" />
+            <element signature="e#247652#248006#0#PHP" />
+            <element signature="e#248040#249239#0#PHP" />
+            <element signature="e#248266#248322#0#PHP" />
+            <element signature="e#248362#248450#0#PHP" />
+            <element signature="e#248587#248658#0#PHP" />
+            <element signature="e#248667#249103#0#PHP" />
+            <element signature="e#249112#249186#0#PHP" />
+            <element signature="e#249244#249688#0#PHP" />
+            <element signature="e#249474#249638#0#PHP" />
+            <element signature="e#249693#254907#0#PHP" />
+            <element signature="e#249815#250173#0#PHP" />
+            <element signature="e#250604#250768#0#PHP" />
+            <element signature="e#250804#250903#0#PHP" />
+            <element signature="e#250981#251592#0#PHP" />
+            <element signature="e#251741#252238#0#PHP" />
+            <element signature="e#252399#252999#0#PHP" />
+            <element signature="e#253093#253538#0#PHP" />
+            <element signature="e#253547#254605#0#PHP" />
+            <element signature="e#254614#254857#0#PHP" />
+            <element signature="e#254912#257004#0#PHP" />
+            <element signature="e#254979#255417#0#PHP" />
+            <element signature="e#255579#255636#0#PHP" />
+            <element signature="e#256129#256355#0#PHP" />
+            <element signature="e#256450#256666#0#PHP" />
+            <element signature="e#256761#256977#0#PHP" />
+            <element signature="e#257009#257057#0#PHP" />
+            <element signature="e#257062#269497#0#PHP" />
+            <element signature="e#257359#257751#0#PHP" />
+            <element signature="e#257760#257818#0#PHP" />
+            <element signature="e#257871#257969#0#PHP" />
+            <element signature="e#258115#258200#0#PHP" />
+            <element signature="e#258834#269223#0#PHP" />
+            <element signature="e#269502#274815#0#PHP" />
+            <element signature="e#270152#270214#0#PHP" />
+            <element signature="e#270267#270373#0#PHP" />
+            <element signature="e#270382#274541#0#PHP" />
+            <element signature="e#274820#278263#0#PHP" />
+            <element signature="e#275541#275603#0#PHP" />
+            <element signature="e#275656#275762#0#PHP" />
+            <element signature="e#275771#277989#0#PHP" />
+            <element signature="e#278268#278446#0#PHP" />
+            <element signature="e#278451#278787#0#PHP" />
+            <element signature="e#278648#278760#0#PHP" />
+            <element signature="e#278792#279496#0#PHP" />
+            <element signature="e#279110#279167#0#PHP" />
+            <element signature="e#279176#279490#0#PHP" />
+            <element signature="e#279501#280041#0#PHP" />
+            <element signature="e#279759#279897#0#PHP" />
+            <element signature="e#280046#282023#0#PHP" />
+            <element signature="e#280299#280410#0#PHP" />
+            <element signature="e#280419#280558#0#PHP" />
+            <element signature="e#280567#280754#0#PHP" />
+            <element signature="e#280763#281104#0#PHP" />
+            <element signature="e#281113#281847#0#PHP" />
+            <element signature="e#281913#281995#0#PHP" />
+            <element signature="e#282028#282687#0#PHP" />
+            <element signature="e#282147#282625#0#PHP" />
+            <element signature="e#282692#283721#0#PHP" />
+            <element signature="e#282914#282970#0#PHP" />
+            <element signature="e#282979#283065#0#PHP" />
+            <element signature="e#283221#283302#0#PHP" />
+            <element signature="e#283535#283668#0#PHP" />
+            <element signature="e#283726#284630#0#PHP" />
+            <element signature="e#283952#284008#0#PHP" />
+            <element signature="e#284017#284111#0#PHP" />
+            <element signature="e#284257#284337#0#PHP" />
+            <element signature="e#284503#284577#0#PHP" />
+            <element signature="e#284635#285434#0#PHP" />
+            <element signature="e#284823#284879#0#PHP" />
+            <element signature="e#284888#284969#0#PHP" />
+            <element signature="e#285115#285195#0#PHP" />
+            <element signature="e#285307#285381#0#PHP" />
+            <element signature="e#285439#286510#0#PHP" />
+            <element signature="e#285601#285657#0#PHP" />
+            <element signature="e#285666#285739#0#PHP" />
+            <element signature="e#286170#286460#0#PHP" />
+            <element signature="e#286515#288437#0#PHP" />
+            <element signature="e#286674#286730#0#PHP" />
+            <element signature="e#286824#287280#0#PHP" />
+            <element signature="e#287289#288431#0#PHP" />
+            <element signature="e#288442#292680#0#PHP" />
+            <element signature="e#288677#288733#0#PHP" />
+            <element signature="e#288742#288821#0#PHP" />
+            <element signature="e#288927#289007#0#PHP" />
+            <element signature="e#289250#289506#0#PHP" />
+            <element signature="e#289639#290218#0#PHP" />
+            <element signature="e#290371#290481#0#PHP" />
+            <element signature="e#290642#290705#0#PHP" />
+            <element signature="e#290894#292140#0#PHP" />
+            <element signature="e#292149#292483#0#PHP" />
+            <element signature="e#292492#292630#0#PHP" />
+            <element signature="e#292685#292907#0#PHP" />
+            <element signature="e#292912#293225#0#PHP" />
+            <element signature="e#293035#293089#0#PHP" />
+            <element signature="e#293098#293198#0#PHP" />
+            <element signature="e#293230#309514#0#PHP" />
+            <element signature="e#293512#293595#0#PHP" />
+            <element signature="e#293604#293650#0#PHP" />
+            <element signature="e#293683#294141#0#PHP" />
+            <element signature="e#294150#300854#0#PHP" />
+            <element signature="e#301167#309464#0#PHP" />
+            <element signature="e#309519#316726#0#PHP" />
+            <element signature="e#309736#309782#0#PHP" />
+            <element signature="e#309868#309951#0#PHP" />
+            <element signature="e#309960#310418#0#PHP" />
+            <element signature="e#310427#316380#0#PHP" />
+            <element signature="e#316731#317648#0#PHP" />
+            <element signature="e#316969#317052#0#PHP" />
+            <element signature="e#317653#318443#0#PHP" />
+            <element signature="e#317833#317916#0#PHP" />
+            <element signature="e#317950#318322#0#PHP" />
+            <element signature="e#318448#319459#0#PHP" />
+            <element signature="e#318651#318734#0#PHP" />
+            <element signature="e#318768#319338#0#PHP" />
+            <element signature="e#319464#321522#0#PHP" />
+            <element signature="e#319682#319765#0#PHP" />
+            <element signature="e#319948#320110#0#PHP" />
+            <element signature="e#320119#321401#0#PHP" />
+            <element signature="e#321527#322584#0#PHP" />
+            <element signature="e#321746#321829#0#PHP" />
+            <element signature="e#321883#322463#0#PHP" />
+            <element signature="e#322589#324055#0#PHP" />
+            <element signature="e#322806#322889#0#PHP" />
+            <element signature="e#323844#324005#0#PHP" />
+            <element signature="e#324060#325656#0#PHP" />
+            <element signature="e#324277#324360#0#PHP" />
+            <element signature="e#324414#325535#0#PHP" />
+            <element signature="e#325661#327796#0#PHP" />
+            <element signature="e#325886#325969#0#PHP" />
+            <element signature="e#327585#327746#0#PHP" />
+            <element signature="e#327801#331728#0#PHP" />
+            <element signature="e#328059#328142#0#PHP" />
+            <element signature="e#328151#328197#0#PHP" />
+            <element signature="e#328206#328252#0#PHP" />
+            <element signature="e#328280#328352#0#PHP" />
+            <element signature="e#328397#331722#0#PHP" />
+            <element signature="e#331733#334193#0#PHP" />
+            <element signature="e#331982#332065#0#PHP" />
+            <element signature="e#332074#332120#0#PHP" />
+            <element signature="e#332153#332738#0#PHP" />
+            <element signature="e#332766#332838#0#PHP" />
+            <element signature="e#333181#333788#0#PHP" />
+            <element signature="e#333874#333957#0#PHP" />
+            <element signature="e#334198#336635#0#PHP" />
+            <element signature="e#334460#334543#0#PHP" />
+            <element signature="e#334552#334598#0#PHP" />
+            <element signature="e#334607#334653#0#PHP" />
+            <element signature="e#334686#335271#0#PHP" />
+            <element signature="e#335299#335371#0#PHP" />
+            <element signature="e#335714#336230#0#PHP" />
+            <element signature="e#336316#336399#0#PHP" />
+            <element signature="e#336640#338384#0#PHP" />
+            <element signature="e#336864#336947#0#PHP" />
+            <element signature="e#336956#337002#0#PHP" />
+            <element signature="e#337030#337102#0#PHP" />
+            <element signature="e#337445#337979#0#PHP" />
+            <element signature="e#338065#338148#0#PHP" />
+            <element signature="e#338389#341021#0#PHP" />
+            <element signature="e#338555#338633#0#PHP" />
+            <element signature="e#338707#338790#0#PHP" />
+            <element signature="e#338901#339012#0#PHP" />
+            <element signature="e#339358#340581#0#PHP" />
+            <element signature="e#341026#343118#0#PHP" />
+            <element signature="e#341213#341296#0#PHP" />
+            <element signature="e#341686#342515#0#PHP" />
+            <element signature="e#342659#342770#0#PHP" />
+            <element signature="e#343123#347793#0#PHP" />
+            <element signature="e#343283#343366#0#PHP" />
+            <element signature="e#343605#346943#0#PHP" />
+            <element signature="e#347798#349655#0#PHP" />
+            <element signature="e#347992#348070#0#PHP" />
+            <element signature="e#348144#348227#0#PHP" />
+            <element signature="e#348984#349076#0#PHP" />
+            <element signature="e#349085#349604#0#PHP" />
+            <element signature="e#349660#357519#0#PHP" />
+            <element signature="e#349882#349928#0#PHP" />
+            <element signature="e#350000#350078#0#PHP" />
+            <element signature="e#350140#350223#0#PHP" />
+            <element signature="e#350232#350690#0#PHP" />
+            <element signature="e#350699#357173#0#PHP" />
+            <element signature="e#357524#362914#0#PHP" />
+            <element signature="e#357778#357856#0#PHP" />
+            <element signature="e#357918#358001#0#PHP" />
+            <element signature="e#359571#359734#0#PHP" />
+            <element signature="e#359825#360947#0#PHP" />
+            <element signature="e#362657#362820#0#PHP" />
+            <element signature="e#362919#365066#0#PHP" />
+            <element signature="e#363110#363205#0#PHP" />
+            <element signature="e#363305#363388#0#PHP" />
+            <element signature="e#363500#363585#0#PHP" />
+            <element signature="e#363594#363697#0#PHP" />
+            <element signature="e#363806#363891#0#PHP" />
+            <element signature="e#363900#364322#0#PHP" />
+            <element signature="e#364748#364849#0#PHP" />
+            <element signature="e#364858#365010#0#PHP" />
+            <element signature="e#365071#367346#0#PHP" />
+            <element signature="e#365375#365462#0#PHP" />
+            <element signature="e#365562#365636#0#PHP" />
+            <element signature="e#365748#365823#0#PHP" />
+            <element signature="e#365832#365925#0#PHP" />
+            <element signature="e#365934#366029#0#PHP" />
+            <element signature="e#366168#366236#0#PHP" />
+            <element signature="e#366679#366880#0#PHP" />
+            <element signature="e#366889#367293#0#PHP" />
+            <element signature="e#367351#370542#0#PHP" />
+            <element signature="e#367397#370514#0#PHP" />
+            <element signature="e#370547#372740#0#PHP" />
+            <element signature="e#370680#370753#0#PHP" />
+            <element signature="e#370919#370995#0#PHP" />
+            <element signature="e#371270#372713#0#PHP" />
+            <element signature="e#372745#373557#0#PHP" />
+            <element signature="e#372939#373457#0#PHP" />
+            <element signature="e#373562#374435#0#PHP" />
+            <element signature="e#373637#373766#0#PHP" />
+            <element signature="e#373775#374394#0#PHP" />
+            <element signature="e#374440#379092#0#PHP" />
+            <element signature="e#374648#374732#0#PHP" />
+            <element signature="e#374833#376154#0#PHP" />
+            <element signature="e#376264#378353#0#PHP" />
+            <element signature="e#378465#379086#0#PHP" />
+            <element signature="e#379097#379615#0#PHP" />
+            <element signature="e#379294#379588#0#PHP" />
+            <element signature="e#379620#384143#0#PHP" />
+            <element signature="e#380053#380115#0#PHP" />
+            <element signature="e#380162#380271#0#PHP" />
+            <element signature="e#380280#380366#0#PHP" />
+            <element signature="e#380375#381583#0#PHP" />
+            <element signature="e#381664#381713#0#PHP" />
+            <element signature="e#381722#382818#0#PHP" />
+            <element signature="e#382827#384116#0#PHP" />
+            <element signature="e#384148#387276#0#PHP" />
+            <element signature="e#384265#387233#0#PHP" />
+            <element signature="e#387281#387467#0#PHP" />
+            <element signature="e#387472#388839#0#PHP" />
+            <element signature="e#387648#387718#0#PHP" />
+            <element signature="e#387807#387860#0#PHP" />
+            <element signature="e#387980#388338#0#PHP" />
+            <element signature="e#388454#388566#0#PHP" />
+            <element signature="e#388575#388687#0#PHP" />
+            <element signature="e#388696#388812#0#PHP" />
+            <element signature="e#388844#389784#0#PHP" />
+            <element signature="e#389053#389102#0#PHP" />
+            <element signature="e#389160#389217#0#PHP" />
+            <element signature="e#389789#391679#0#PHP" />
+            <element signature="e#389968#390025#0#PHP" />
+            <element signature="e#390861#391652#0#PHP" />
+            <element signature="e#391684#392477#0#PHP" />
+            <element signature="e#392073#392123#0#PHP" />
+            <element signature="e#392482#393196#0#PHP" />
+            <element signature="e#392572#392620#0#PHP" />
+            <element signature="e#392715#392797#0#PHP" />
+            <element signature="e#392916#392965#0#PHP" />
+            <element signature="e#392999#393103#0#PHP" />
+            <element signature="e#393112#393168#0#PHP" />
+            <element signature="e#393225#394511#0#PHP" />
+            <element signature="e#394095#394313#0#PHP" />
+            <element signature="e#394682#394793#0#PHP" />
+            <marker date="1553156775337" expanded="false" signature="14528:14749" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="15093:15210" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="15275:15389" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="15533:15722" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="15822:16011" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="19691:19912" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="20320:20437" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="20502:20616" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="20760:20949" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="21049:21238" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="25974:26195" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="26293:26482" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="26582:26771" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="28120:28258" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="28306:28443" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="28804:28956" ph="SELECT id, u... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="33988:34140" ph="SELECT id, u... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="47170:47385" ph="SELECT id,ti... ${tablename(&quot;longbing_card_timeline&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="47429:47549" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="56469:56489" ph="..." />
+            <marker date="1553156775337" expanded="false" signature="71875:72064" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="72175:72364" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="72474:72663" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="72778:72969" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="73842:74042" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="74169:74340" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="74467:74614" ph="SELECT count... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="74729:74901" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="75025:75197" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="75319:75519" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="75637:75809" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="75935:76106" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="76232:76403" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="true" signature="77282:77678" ph="SELECT a.id,... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="79228:79408" ph="SELECT count... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="81629:81842" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="81898:82122" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="82204:82397" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="82464:82681" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="86892:87136" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="87214:87457" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="88272:88478" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="88705:88909" ph="SELECT creat... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="89225:89456" ph="SELECT count... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="89747:89980" ph="SELECT creat... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="94323:94447" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="94487:94610" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="117142:117294" ph="SELECT count... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="117795:117862" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="117909:117975" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="126328:126415" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="126470:126556" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="126600:126729" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="127074:127286" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="129372:129573" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="131941:132145" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="133685:133928" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="134362:134595" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="134979:135175" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="135917:135989" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="136135:136214" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="136362:136469" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="136629:136700" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="136846:136924" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="137072:137178" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="138647:138899" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="139108:139344" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="139751:139947" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="140751:140823" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="140980:141059" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="141218:141325" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="141500:141571" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="141728:141806" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="141965:142071" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="143045:143253" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="143690:143890" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="144308:144489" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="145340:145412" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="145568:145647" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="145805:145912" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="146090:146161" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="146317:146395" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="146553:146659" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="147067:147322" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="147750:147987" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="148408:148604" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="149458:149530" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="149689:149768" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="149929:150036" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="150217:150288" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="150447:150525" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="150686:150792" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="151893:152056" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="153555:153754" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="154296:154460" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="154488:154652" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="154680:154810" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="154872:155035" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="155063:155226" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="155254:155383" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="157899:158000" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="158020:158121" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="158346:158475" ph="SELECT id,la... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="159698:159897" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="160593:160769" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="160885:161031" ph="SELECT * FRO... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="161167:161341" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="161458:161632" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="161775:161950" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="162066:162211" ph="SELECT * FRO... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="162347:162520" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="162637:162810" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="164539:164938" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="166678:166907" ph="SELECT b.* F... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="166953:167159" ph="SELECT b.* F... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="168405:168507" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="168555:168642" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="177917:178066" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="178115:178252" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="178302:178530" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="178598:178779" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="178828:178997" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="179047:179309" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="186162:186337" ph="SELECT id FR... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="186388:186554" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="186605:186772" ph="SELECT id FR... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="186823:187018" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="187058:187253" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="187293:187490" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="188196:188458" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="213094:213185" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="213517:213629" ph="SELECT * FRO... ${tablename(&quot;longbing_card_client_info&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="214167:214282" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="214691:214777" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="214840:214925" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="244069:244280" ph="SELECT id,us... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="269243:269338" ph="DELETE FROM " />
+            <marker date="1553156775337" expanded="false" signature="269361:269467" ph="DELETE FROM " />
+            <marker date="1553156775337" expanded="false" signature="274561:274656" ph="DELETE FROM " />
+            <marker date="1553156775337" expanded="false" signature="274679:274785" ph="DELETE FROM " />
+            <marker date="1553156775337" expanded="false" signature="278009:278104" ph="DELETE FROM " />
+            <marker date="1553156775337" expanded="false" signature="278127:278233" ph="DELETE FROM " />
+            <marker date="1553156775337" expanded="false" signature="294350:294506" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="294795:294927" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="295423:295569" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="295645:295802" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="296561:296780" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="296911:297197" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="297537:297729" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="298049:298217" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="298713:298865" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="298941:299093" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="299914:300205" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="300336:300730" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="302274:302488" ph="SELECT id, t... ${tablename(&quot;longbing_card_shop_order&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="303004:303144" ph="SELECT id FR... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="303369:303550" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="303764:303914" ph="SELECT user_... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="304140:304241" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="304370:304550" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="304662:304821" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="306372:306507" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="306630:306767" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="306896:307036" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="307607:307966" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="308144:308281" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="308483:308600" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="308795:308932" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="310627:310783" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="311072:311204" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="311700:311846" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="311922:312079" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="312478:312697" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="312828:313114" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="313454:313646" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="313966:314134" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="314630:314782" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="314858:315010" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="315440:315731" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="315862:316256" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="318987:319127" ph="SELECT id FR... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="320375:320556" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="320693:320905" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="320961:321169" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="322102:322252" ph="SELECT user_... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="322906:323007" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="323112:323292" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="323380:323539" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="324633:324768" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="324879:325016" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="325133:325273" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="326126:326485" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="326635:326772" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="326946:327063" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="327230:327367" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="328435:328585" ph="SELECT count... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="328664:328948" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="330385:330571" ph="SELECT count... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="330650:330901" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="332907:333158" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="335440:335691" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="337171:337422" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="337556:337663" ph="SELECT id FR... ${tablename(&quot;longbing_card_rate&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="339080:339315" ph="SELECT a.id,... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="340613:340825" ph="SELECT a.id,... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="350905:351091" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="351410:351575" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="352071:352217" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="352293:352450" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="352870:353149" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="353285:353661" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="354007:354229" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="354579:354747" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="355243:355395" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="355471:355623" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="356078:356429" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="356565:357049" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="358632:358733" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="358838:359018" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="359106:359265" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="360044:360179" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="360290:360427" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="360544:360684" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="361194:361553" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="361704:361841" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="362016:362133" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
+            <marker date="1553156775337" expanded="false" signature="362301:362438" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/wxapp/editstaffv2.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/web/manage/cardedit.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="48" column="44" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4752">
+          <caret line="176" column="36" selection-start-line="176" selection-start-column="36" selection-end-line="176" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+          <folding>
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#4;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#a#0;n#dd#2;n#dl#0;n#li#4;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#dd#3;n#dl#0;n#li#4;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#dd#4;n#dl#0;n#li#4;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#li#5;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#a#0;n#dd#2;n#dl#0;n#li#5;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#dd#3;n#dl#0;n#li#5;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#dd#4;n#dl#0;n#li#5;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#li#9;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#dl#0;n#li#9;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#10;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#dl#0;n#li#10;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#11;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#12;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#13;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#14;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#16;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#17;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#19;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#20;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#21;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#cite#0;n#a#0;n#li#21;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#li#22;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#cite#0;n#a#0;n#li#22;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manage/cardEdit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4617">
+          <caret line="171" column="61" selection-start-line="171" selection-start-column="61" selection-end-line="171" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+          <folding>
+            <element signature="n#install#0;n#manifest#0;n#!!top" />
+            <element signature="n#uninstall#0;n#manifest#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/wxapp/cardshow.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="125" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/hjmall_goods.sql" />
+    <entry file="file://$USER_HOME$/Desktop/hjmall_goods_pic.sql" />
+    <entry file="file://$USER_HOME$/Desktop/hjmall_upload_file.sql" />
+    <entry file="file://$PROJECT_DIR$/workerman/server.pem">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workerman/server.key">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workerman/start.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

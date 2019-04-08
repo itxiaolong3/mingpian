@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{$mini_name}-管理后台</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="stylesheet" href="../../../addons/{$module_name}/images/layuiadmin/layui/css/layui.css" media="all">
+    <link rel="stylesheet" href="../../../addons/{$module_name}/images/layuiadmin/style/admin.css" media="all">
+</head>
+<body class="layui-layout-body">
+
+<style>
+    .layui-nav-itemed {
+        background-color: #fff;
+        border-bottom: 1px solid #f0f0f0;
+    }
+
+    .layui-nav-itemed > a {
+        border-bottom: 1px solid #f0f0f0;
+    }
+</style>
+
+<div id="LAY_app">
+    <div class="layui-layout layui-layout-admin">
+        <div class="layui-header">
+            <!-- 头部区域 -->
+            <ul class="layui-nav layui-layout-left">
+                <li class="layui-nav-item layadmin-flexible" lay-unselect>
+                    <a href="javascript:;" layadmin-event="flexible" title="侧边伸缩">
+                        <i class="layui-icon layui-icon-shrink-right" id="LAY_app_flexible"></i>
+                    </a>
+                </li>
+                <li class="layui-nav-item" lay-unselect>
+                    <a href="javascript:;" layadmin-event="refresh" title="刷新">
+                        <i class="layui-icon layui-icon-refresh-3"></i>
+                    </a>
+                </li>
+                <li class="layui-nav-item" lay-unselect>
+                    <a href="//{$ser}" layadmin-event="refresh" title="返回首页">
+                        <i class="layui-icon layui-icon-chart-screen"></i>
+                    </a>
+                </li>
+            </ul>
+
+            <span class="layui-breadcrumb" lay-separator="|" style="float: right;line-height: 50px;padding-right: 20px">
+                <a href="javascript:;" layadmin-event="fullscreen">
+                    <i class="layui-icon layui-icon-screen-full"></i>
+                </a>
+                <a href="javascript:;" layadmin-event="theme">
+                    <i class="layui-icon layui-icon-theme"></i>
+                </a>
+                <a href="//{$ser}">
+                    返回首页
+                </a>
+                <span>欢迎您：{$username}</span>
+                <a href="javascript:;" onclick="flushdb_redis()">
+                    清除缓存
+                </a>
+            </span>
+        </div>
+
+        <!-- 侧边菜单 -->
+        <div class="layui-side layui-side-menu">
+            <div class="layui-side-scroll">
+                <div class="layui-logo bg-f8f8f8" lay-href="{$overview}"
+                     style="color: #000">
+                    <span>{$mini_name}</span>
+                </div>
+
+                <ul class="layui-nav layui-nav-tree" lay-shrink="all" id="LAY-system-side-menu"
+                    lay-filter="layadmin-system-side-menu">
+
+                    <li data-name="index" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$overview}" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-chart-screen" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/1.png" class="icon-img">
+                            <cite style="color: #898989">概览</cite>
+                        </a>
+                    </li>
+
+                    {if $show_plug == 1 }
+
+                    <li data-name="plug" class="layui-nav-item">
+                        <a href="javascript:;" lay-direction="2">
+                            <img src="../../../addons/{$module_name}/images/icon/2.png" class="icon-img">
+                            <cite style="color: #898989">插件管理</cite>
+                        </a>
+                        <dl class="layui-nav-child" style="background-color: #fff !important;">
+                            {loop $plug_list $item}
+                            <dd data-name="{$item['sign']}">
+                                <a lay-href="{$item['url']}" style="color: #898989">{$item['title']}</a>
+                            </dd>
+                            {/loop}
+                        </dl>
+                    </li>
+
+                    {/if}
+
+                    {if $permiuser['permission']=='' }
+                    <li data-name="company" class="layui-nav-item">
+                        <a href="javascript:;" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-app" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/2.png" class="icon-img">
+                            <cite style="color: #898989">分公司管理</cite>
+                        </a>
+                        <dl class="layui-nav-child" style="background-color: #fff !important;">
+                            <dd data-name="companyEdit">
+                                <a lay-href="{$companyEdit}" style="color: #898989">添加公司</a>
+                            </dd>
+                            <dd data-name="console1">
+                                <a lay-href="{$companyList}" style="color: #898989">公司列表</a>
+                            </dd>
+                            <dd data-name="console2">
+                                <a lay-href="{$dutiesList}" style="color: #898989">职务管理</a>
+                            </dd>
+                            <dd data-name="posterType">
+                                <a lay-href="{$posterType}" style="color: #898989">海报分类</a>
+                            </dd>
+                            <dd data-name="poster">
+                                <a lay-href="{$poster}" style="color: #898989">海报列表</a>
+                            </dd>
+                            <dd data-name="tags">
+                                <a lay-href="{$tags}" style="color: #898989">印象标签</a>
+                            </dd>
+                        </dl>
+                    </li>
+                    {elseif strpos($permiuser['permission'],group)}
+                    <li data-name="company" class="layui-nav-item">
+                        <a href="javascript:;" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-app" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/2.png" class="icon-img">
+                            <cite style="color: #898989">分公司管理</cite>
+                        </a>
+                        <dl class="layui-nav-child" style="background-color: #fff !important;">
+                            <dd data-name="companyEdit">
+                                <a lay-href="{$companyEdit}" style="color: #898989">添加公司</a>
+                            </dd>
+                            <dd data-name="console1">
+                                <a lay-href="{$companyList}" style="color: #898989">公司列表</a>
+                            </dd>
+                            <dd data-name="console2">
+                                <a lay-href="{$dutiesList}" style="color: #898989">职务管理</a>
+                            </dd>
+                            <dd data-name="posterType">
+                                <a lay-href="{$posterType}" style="color: #898989">海报分类</a>
+                            </dd>
+                            <dd data-name="poster">
+                                <a lay-href="{$poster}" style="color: #898989">海报列表</a>
+                            </dd>
+                            <dd data-name="tags">
+                                <a lay-href="{$tags}" style="color: #898989">印象标签</a>
+                            </dd>
+                        </dl>
+                    </li>
+                    {else}
+                    {/if}
+
+                    {if $permiuser['permission']=='' }
+                    <li data-name="user" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="名片/分销管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-templeate-1" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/3.png" class="icon-img">
+                            <cite style="color: #898989">名片/分销管理</cite>
+                        </a>
+                        <dl class="layui-nav-child" style="background-color: #fff !important;">
+                            <dd data-name="card">
+                                <a lay-href="{$usersList}" style="color: #898989">名片管理</a>
+                            </dd>
+                            <dd data-name="console8">
+                                <a lay-href="{$relationship}" style="color: #898989">团队管理</a>
+                            </dd>
+                            <dd data-name="">
+                                <a lay-href="{$randcodeList}" style="color: #898989">邀请码列表</a>
+                            </dd>
+                            <dd data-name="">
+                                <a lay-href="{$teamsetting}" style="color: #898989">分销设置</a>
+                            </dd>
+                            <dd data-name="">
+                                <a lay-href="{$userbook}" style="color: #898989">使用指南</a>
+                            </dd>
+                        </dl>
+                    </li>
+                    {elseif strpos($permiuser['permission'],user)}
+                    <li data-name="user" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="名片/分销管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-templeate-1" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/3.png" class="icon-img">
+                            <cite style="color: #898989">名片/分销管理</cite>
+                        </a>
+                        <dl class="layui-nav-child" style="background-color: #fff !important;">
+                            <dd data-name="card">
+                                <a lay-href="{$usersList}" style="color: #898989">名片管理</a>
+                            </dd>
+                            <dd data-name="console8">
+                                <a lay-href="{$relationship}" style="color: #898989">团队管理</a>
+                            </dd>
+                            <dd data-name="">
+                                <a lay-href="{$randcodeList}" style="color: #898989">邀请码列表</a>
+                            </dd>
+                            <dd data-name="">
+                                <a lay-href="{$teamsetting}" style="color: #898989">分销设置</a>
+                            </dd>
+                            <dd data-name="">
+                                <a lay-href="{$userbook}" style="color: #898989">使用指南</a>
+                            </dd>
+                        </dl>
+                    </li>
+                    {else}
+                    {/if}
+                    <!--待设-->
+                    <li data-name="card" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$clientList}" lay-tips="客户管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-templeate-1" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/3.5.png" class="icon-img">
+                            <cite style="color: #898989">客户管理</cite>
+                        </a>
+                    </li>
+                    <!--待设-->
+                    <li data-name="textGroup" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$textGroup}" lay-tips="</a>" lay-direction="2">
+                            <img src="https://retail.xiaochengxucms.com/text20190124.png" class="icon-img">
+                            <cite style="color: #898989">短信群发</cite>
+                        </a>
+                    </li>
+                    <!--待设-->
+                    <li data-name="groupSending" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$groupSending}" lay-tips="</a>" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-set" style="color: #898989"></i>-->
+                            <img src="https://retail.xiaochengxucms.com/images/12/2018/11/N1Pnxrs11z8m5XES6Cj5smEx5pmmmm.png" class="icon-img">
+                            <cite style="color: #898989">群发消息</cite>
+                        </a>
+                    </li>
+                    <!--待设-->
+                    <!--<li data-name="handover" class="layui-nav-item">-->
+                        <!--<a href="javascript:;" lay-href="{$handover}" lay-tips="</a>" lay-direction="2">-->
+                            <!--&lt;!&ndash;<i class="layui-icon layui-icon-set" style="color: #898989"></i>&ndash;&gt;-->
+                            <!--<img src="https://retail.xiaochengxucms.com/images/2/2018/12/NdEO9U4zo3c307oZJs9656osj2j6e4.png" class="icon-img">-->
+                            <!--<cite style="color: #898989">员工交接</cite>-->
+                        <!--</a>-->
+                    <!--</li>-->
+                    {if $permiuser['permission']=='' }
+                    <li data-name="goods" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="商品管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-component" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/4.png" class="icon-img">
+                            <cite style="color: #898989">商品管理</cite>
+                        </a>
+                        <dl class="layui-nav-child" style="background-color: #fff !important;">
+                            <dd data-name="console3">
+                                <a lay-href="{$typeList}" style="color: #898989">商品分类</a>
+                            </dd>
+                            <dd data-name="console4">
+                                <a lay-href="{$addGoods}" style="color: #898989">添加商品</a>
+                            </dd>
+                            <dd data-name="console5">
+                                <a lay-href="{$goodsList}" style="color: #898989">商品列表</a>
+                            </dd>
+                            <dd data-name="console6">
+                                <a lay-href="{$orderList}" style="color: #898989">订单管理</a>
+                            </dd>
+                            <dd data-name="couponList">
+                                <a lay-href="{$couponList}" style="color: #898989">福包管理</a>
+                            </dd>
+                            <dd data-name="profitList">
+                                <a lay-href="{$profitList}" style="color: #898989">收益总览</a>
+                            </dd>
+                            <dd data-name="waterList">
+                                <a lay-href="{$waterList}" style="color: #898989">佣金流水</a>
+                            </dd>
+                            <dd data-name="cashList">
+                                <a lay-href="{$cashList}" style="color: #898989">提现记录</a>
+                            </dd>
+                            <!--<dd data-name="relationship">-->
+                            <!--<a lay-href="{$relationship}" style="color: #898989">分销关系</a>-->
+                            <!--</dd>-->
+                        </dl>
+                    </li>
+                    {elseif strpos($permiuser['permission'],goods)}
+                    <li data-name="goods" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="商品管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-component" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/4.png" class="icon-img">
+                            <cite style="color: #898989">商品管理</cite>
+                        </a>
+                        <dl class="layui-nav-child" style="background-color: #fff !important;">
+                            <dd data-name="console3">
+                                <a lay-href="{$typeList}" style="color: #898989">商品分类</a>
+                            </dd>
+                            <dd data-name="console4">
+                                <a lay-href="{$addGoods}" style="color: #898989">添加商品</a>
+                            </dd>
+                            <dd data-name="console5">
+                                <a lay-href="{$goodsList}" style="color: #898989">商品列表</a>
+                            </dd>
+                            <dd data-name="console6">
+                                <a lay-href="{$orderList}" style="color: #898989">订单管理</a>
+                            </dd>
+                            <dd data-name="couponList">
+                                <a lay-href="{$couponList}" style="color: #898989">福包管理</a>
+                            </dd>
+                            <dd data-name="profitList">
+                                <a lay-href="{$profitList}" style="color: #898989">收益总览</a>
+                            </dd>
+                            <dd data-name="waterList">
+                                <a lay-href="{$waterList}" style="color: #898989">佣金流水</a>
+                            </dd>
+                            <dd data-name="cashList">
+                                <a lay-href="{$cashList}" style="color: #898989">提现记录</a>
+                            </dd>
+                            <!--<dd data-name="relationship">-->
+                            <!--<a lay-href="{$relationship}" style="color: #898989">分销关系</a>-->
+                            <!--</dd>-->
+                        </dl>
+                    </li>
+                    {else}
+                    {/if}
+
+                    <!--<li data-name="team" class="layui-nav-item">-->
+                        <!--<a href="javascript:;" lay-tips="团队管理" lay-direction="2">-->
+                            <!--&lt;!&ndash;<i class="layui-icon layui-icon-link" style="color: #898989"></i>&ndash;&gt;-->
+                            <!--<img src="../../../addons/{$module_name}/images/icon/13.png" class="icon-img">-->
+                            <!--<cite style="color: #898989">分销管理</cite>-->
+                        <!--</a>-->
+                        <!--<dl class="layui-nav-child" style="background-color: #fff !important;">-->
+                            <!--<dd data-name="console8">-->
+                                <!--<a lay-href="{$relationship}" style="color: #898989">团队管理</a>-->
+                            <!--</dd>-->
+                            <!--<dd data-name="">-->
+                                <!--<a lay-href="{$randcodeList}" style="color: #898989">邀请码列表</a>-->
+                            <!--</dd>-->
+                            <!--<dd data-name="">-->
+                                <!--<a lay-href="{$teamsetting}" style="color: #898989">分销设置</a>-->
+                            <!--</dd>-->
+                            <!--<dd data-name="">-->
+                                <!--<a lay-href="{$userbook}" style="color: #898989">使用指南</a>-->
+                            <!--</dd>-->
+                        <!--</dl>-->
+                    <!--</li>-->
+                    {if $permiuser['permission']=='' }
+                    <li data-name="timeline" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="动态管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-find-fill" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/5.png" class="icon-img">
+                            <cite style="color: #898989">动态管理</cite>
+                        </a>
+                        <dl class="layui-nav-child" style="background-color: #fff !important;">
+                            <dd data-name="console7">
+                                <a lay-href="{$timelineEdit}" style="color: #898989">添加动态</a>
+                            </dd>
+                            <dd data-name="console8">
+                                <a lay-href="{$timelineList}" style="color: #898989">动态列表</a>
+                            </dd>
+                            <dd data-name="console9">
+                                <a lay-href="{$commentList}" style="color: #898989">评论管理</a>
+                            </dd>
+                        </dl>
+                    </li>
+                    {elseif strpos($permiuser['permission'],timeline)}
+                    <li data-name="timeline" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="动态管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-find-fill" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/5.png" class="icon-img">
+                            <cite style="color: #898989">动态管理</cite>
+                        </a>
+                        <dl class="layui-nav-child" style="background-color: #fff !important;">
+                            <dd data-name="console7">
+                                <a lay-href="{$timelineEdit}" style="color: #898989">添加动态</a>
+                            </dd>
+                            <dd data-name="console8">
+                                <a lay-href="{$timelineList}" style="color: #898989">动态列表</a>
+                            </dd>
+                            <dd data-name="console9">
+                                <a lay-href="{$commentList}" style="color: #898989">评论管理</a>
+                            </dd>
+                        </dl>
+                    </li>
+                    {else}
+                    {/if}
+
+                    {if $permiuser['permission']=='' }
+                    <li data-name="web" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$modularList}" lay-tips="官网管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-link" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/6.png" class="icon-img">
+                            <cite style="color: #898989">官网管理</cite>
+                        </a>
+                    </li>
+                    {elseif strpos($permiuser['permission'],modular)}
+                    <li data-name="web" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$modularList}" lay-tips="官网管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-link" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/6.png" class="icon-img">
+                            <cite style="color: #898989">官网管理</cite>
+                        </a>
+                    </li>
+                    {else}
+                    {/if}
+
+                    <!--待设-->
+                    <li data-name="collage" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$userCollage}" lay-tips="拼团管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-circle" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/7.png" class="icon-img">
+                            <cite style="color: #898989">拼团管理</cite>
+                        </a>
+                    </li>
+                    {if $permiuser['permission']=='' }
+                    <li data-name="reply" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="话术管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-edit" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/8.png" class="icon-img">
+                            <cite style="color: #898989">话术管理</cite>
+                        </a>
+                        <dl class="layui-nav-child" style="background-color: #fff !important;">
+                            <dd data-name="replyType">
+                                <a lay-href="{$replyType}" style="color: #898989">话术分类</a>
+                            </dd>
+                            <dd data-name="replyList">
+                                <a lay-href="{$reply}" style="color: #898989">话术列表</a>
+                            </dd>
+                        </dl>
+                    </li>
+                    {elseif strpos($permiuser['permission'],reply)}
+                    <li data-name="reply" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="话术管理" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-edit" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/8.png" class="icon-img">
+                            <cite style="color: #898989">话术管理</cite>
+                        </a>
+                        <dl class="layui-nav-child" style="background-color: #fff !important;">
+                            <dd data-name="replyType">
+                                <a lay-href="{$replyType}" style="color: #898989">话术分类</a>
+                            </dd>
+                            <dd data-name="replyList">
+                                <a lay-href="{$reply}" style="color: #898989">话术列表</a>
+                            </dd>
+                        </dl>
+                    </li>
+                    {else}
+                    {/if}
+
+                    <!--待设-->
+                    <li data-name="message" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$message}" lay-tips="万能通知" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-notice" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/9.png" class="icon-img">
+                            <cite style="color: #898989">万能通知</cite>
+                        </a>
+                    </li>
+
+                    {if $permiuser['permission']=='' }
+                    <li data-name="get" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$tabBar}" lay-tips="底部菜单" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-senior" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/10.png" class="icon-img">
+                            <cite style="color: #898989">底部菜单</cite>
+                        </a>
+                    </li>
+                    {elseif strpos($permiuser['permission'],tabbar)}
+                    <li data-name="get" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$tabBar}" lay-tips="底部菜单" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-senior" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/10.png" class="icon-img">
+                            <cite style="color: #898989">底部菜单</cite>
+                        </a>
+                    </li>
+                    {else}
+                    {/if}
+
+                    {if $permiuser['permission']=='' }
+                    <li data-name="config" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$config}" lay-tips="</a>" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-set" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/11.png" class="icon-img">
+                            <cite style="color: #898989">系统配置</cite>
+                        </a>
+                    </li>
+                    {elseif strpos($permiuser['permission'],config)}
+                    <li data-name="config" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$config}" lay-tips="</a>" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-set" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/11.png" class="icon-img">
+                            <cite style="color: #898989">系统配置</cite>
+                        </a>
+                    </li>
+                    {else}
+                    {/if}
+
+                    <li data-name="config" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$staffexplain}" lay-tips="</a>" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-set" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/12.png" class="icon-img">
+                            <cite style="color: #898989">员工雷达</cite>
+                        </a>
+                    </li>
+
+                    <li data-name="config" class="layui-nav-item">
+                        <a href="javascript:;" lay-href="{$bossexplain}" lay-tips="</a>" lay-direction="2">
+                            <!--<i class="layui-icon layui-icon-set" style="color: #898989"></i>-->
+                            <img src="../../../addons/{$module_name}/images/icon/13.png" class="icon-img">
+                            <cite style="color: #898989">BOSS雷达</cite>
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
+        <!-- 主体内容 -->
+        <div class="layui-body" id="LAY_app_body">
+            <div class="layadmin-tabsbody-item layui-show">
+                <iframe src="{$overview}" frameborder="0" class="layadmin-iframe"></iframe>
+            </div>
+        </div>
+
+        <!-- 辅助元素，一般用于移动设备下遮罩 -->
+        <div class="layadmin-body-shade" layadmin-event="shade"></div>
+    </div>
+</div>
+
+<script src="../../../addons/{$module_name}/images/js/jquery.min.js"></script>
+<script src="../../../addons/{$module_name}/images/layuiadmin/layui/layui.js"></script>
+<script>
+    layui.config({
+        base: '../../../addons/{$module_name}/images/layuiadmin/' //静态资源所在路径
+    }).extend({
+        index: 'lib/index' //主入口模块
+    }).use('index');
+
+    var auth = {$auth};
+
+    layui.use(['layer'], function () {
+        var layer = layui.layer;
+
+        if (auth == 1)
+        {
+            layer.open({
+                title: '提示'
+                ,content: '授权已过期, 请联系客服或者管理员'
+            });
+        }
+    });
+
+    function flushdb_redis ()
+    {
+        var url = "{php echo $this->createWebUrl('manage/flushdbredis')}";
+
+        postData(url, {});
+
+        return false;
+    }
+
+
+</script>
+<link rel="stylesheet" href="../../../addons/{$module_name}/images/css/main.css" media="all">
+<script src="../../../addons/{$module_name}/images/js/main.js"></script>
+</body>
+</html>
+
+

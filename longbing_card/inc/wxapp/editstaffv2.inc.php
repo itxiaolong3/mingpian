@@ -28,10 +28,10 @@ $images = $this->transImageBack($_GPC["images"]);
 $avatar = $this->transImageBack($_GPC["avatar"]);
 $voice = $this->transImageBack($_GPC["voice"]);
 $_GPC["desc"] = str_replace(" ", "&nbsp;", $_GPC["desc"]);
-$data = array( "uniacid" => $uniacid, "avatar" => $avatar,"companylogo" => $_GPC["companylogo"], "name" => $_GPC["name"], "job" => $_GPC["job"], "company" => $_GPC["company"],
-    "company2" => $_GPC["company2"],"company3" => $_GPC["company3"],"phone2" => $_GPC["phone2"],
+$data = array( "uniacid" => $uniacid, "avatar" => $avatar,"companylogo" => $_GPC["companylogo"],"wxqrcode" => $_GPC["wxqrcode"], "name" => $_GPC["name"], "job" => $_GPC["job"], "company" => $_GPC["company"],
+    "company2" => $_GPC["company2"],"company3" => $_GPC["company3"],"comaddre" => $_GPC["comaddre"],"phone2" => $_GPC["phone2"],
     "phone" => $_GPC["phone"], "wechat" => $_GPC["wechat"], "telephone" => $_GPC["telephone"], "job_id" => $_GPC["job_id"],
-    "email" => $_GPC["email"], "desc" => $_GPC["desc"], "company_id" => $_GPC["company_id"],
+    "email" => $_GPC["email"], "desc" => $_GPC["desc"], "comdesc" => $_GPC["comdesc"], "company_id" => $_GPC["company_id"],
     "voice" => $voice, "voice_time" => $_GPC["voice_time"],
     "card_type" => $_GPC["card_type"], "my_url" => $_GPC["my_url"],
     "ww_account" => $_GPC["ww_account"], "images" => $images, "is_default" => 1, "update_time" => time() );

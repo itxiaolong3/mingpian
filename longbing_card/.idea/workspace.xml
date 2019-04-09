@@ -12,7 +12,17 @@
     <pharConfigPath>$PROJECT_DIR$/workerman/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/inc/wxapp/editstaffv2.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="33" column="83" selection-start-line="33" selection-start-column="83" selection-end-line="33" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -58,6 +68,9 @@
       <dir>D:\小程序\博胜\longbing_card</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -82,7 +95,6 @@
         <option value="$PROJECT_DIR$/template/manage/userbook.html" />
         <option value="$PROJECT_DIR$/inc/web/manage/userbook.inc.php" />
         <option value="$PROJECT_DIR$/wxapp.php" />
-        <option value="$PROJECT_DIR$/inc/wxapp/editstaffv2.inc.php" />
         <option value="$PROJECT_DIR$/module.php" />
         <option value="$PROJECT_DIR$/manifest.xml" />
         <option value="$PROJECT_DIR$/template/manage/overview.html" />
@@ -91,6 +103,7 @@
         <option value="$USER_HOME$/Desktop/hjmall_goods.sql" />
         <option value="$USER_HOME$/Desktop/hjmall_goods_pic.sql" />
         <option value="$USER_HOME$/Desktop/hjmall_upload_file.sql" />
+        <option value="$PROJECT_DIR$/inc/wxapp/editstaffv2.inc.php" />
       </list>
     </option>
   </component>
@@ -98,11 +111,12 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="7" />
-    <option name="y" value="19" />
-    <option name="width" value="1932" />
-    <option name="height" value="1031" />
+    <option name="x" value="495" />
+    <option name="y" value="59" />
+    <option name="width" value="1685" />
+    <option name="height" value="920" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -114,6 +128,17 @@
             <path>
               <item name="longbing_card" type="b2602c69:ProjectViewProjectNode" />
               <item name="longbing_card" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="longbing_card" type="b2602c69:ProjectViewProjectNode" />
+              <item name="longbing_card" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="longbing_card" type="b2602c69:ProjectViewProjectNode" />
+              <item name="longbing_card" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+              <item name="wxapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,16 +198,18 @@
       <workItem from="1553907051777" duration="2104000" />
       <workItem from="1554079970730" duration="1317000" />
       <workItem from="1554687849993" duration="598000" />
+      <workItem from="1554689119620" duration="2730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190859000" />
+    <option name="totallyTimeSpent" value="193589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11353944" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -194,7 +221,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -1629,13 +1656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/wxapp/editstaffv2.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inc/web/manage/cardedit.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1296">
@@ -1720,6 +1740,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/workerman/start.php">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/wxapp/editstaffv2.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="33" column="83" selection-start-line="33" selection-start-column="83" selection-end-line="33" selection-end-column="83" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

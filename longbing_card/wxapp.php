@@ -7937,7 +7937,20 @@ class Longbing_cardModuleWxapp extends WeModuleWxapp
                 }
                 break;
         }
-
+        //本月新增人数
+        $oneteam=pdo_fetchall("select * from " . tablename("longbing_card_relation") . " r"  . " left join " . tablename("longbing_card_user") .
+            " u on r.uid=u.id"." where r.pid={$uid} and DATE_FORMAT( addtime, '%Y%m' ) = DATE_FORMAT( CURDATE( ) , '%Y%m' )");
+        $twoteamarr=array();
+        foreach ($oneteam as $k=>$v){
+            $getteam=pdo_fetchall("select * from " . tablename("longbing_card_relation") . " r"  . " left join " . tablename("longbing_card_user") .
+                " u on r.uid=u.id"." where  r.pid={$v['uid']} and DATE_FORMAT( addtime, '%Y%m' ) = DATE_FORMAT( CURDATE( ) , '%Y%m' )");
+            if ($getteam){
+                foreach ($getteam as $k=>$v){
+                    array_push($twoteamarr,$v);
+                }
+            }
+        }
+        $useifno['allcount']=count($oneteam)+count($twoteamarr);
         echo  $this->result(0, "分销页信息",$useifno);
     }
     //提现接口

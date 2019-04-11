@@ -12,7 +12,7 @@
     <pharConfigPath>$PROJECT_DIR$/workerman/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/wxapp/editstaffv2.inc.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wxapp.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="7952" column="26" selection-start-line="7952" selection-start-column="18" selection-end-line="7952" selection-end-column="26" />
+            <state relative-caret-position="386">
+              <caret line="7892" column="24" selection-start-line="7892" selection-start-column="24" selection-end-line="7892" selection-end-column="24" />
               <folding>
                 <element signature="e#1013#3578#0#PHP" />
                 <element signature="e#1099#1266#0#PHP" />
@@ -921,238 +921,243 @@
                 <element signature="e#394528#396118#0#PHP" />
                 <element signature="e#394682#394793#0#PHP" />
                 <element signature="e#396136#396360#0#PHP" />
-                <element signature="e#396385#397326#0#PHP" />
-                <element signature="e#399001#400252#0#PHP" />
-                <element signature="e#400257#400458#0#PHP" />
-                <element signature="e#400478#401159#0#PHP" />
-                <element signature="e#401175#402104#0#PHP" />
-                <marker date="1554798148237" expanded="false" signature="14528:14749" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="15093:15210" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="15275:15389" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="15533:15722" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="15822:16011" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="19691:19912" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="20320:20437" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="20502:20616" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="20760:20949" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="21049:21238" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="25974:26195" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="26293:26482" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="26582:26771" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="28120:28258" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="28306:28443" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="28804:28956" ph="SELECT id, u... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="33988:34140" ph="SELECT id, u... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="47170:47385" ph="SELECT id,ti... ${tablename(&quot;longbing_card_timeline&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="47429:47549" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="56469:56489" ph="..." />
-                <marker date="1554798148237" expanded="false" signature="71875:72064" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="72175:72364" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="72474:72663" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="72778:72969" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="73842:74042" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="74169:74340" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="74467:74614" ph="SELECT count... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="74729:74901" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="75025:75197" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="75319:75519" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="75637:75809" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="75935:76106" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="76232:76403" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="true" signature="77282:77678" ph="SELECT a.id,... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="79228:79408" ph="SELECT count... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="81629:81842" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="81898:82122" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="82204:82397" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="82464:82681" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="86892:87136" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="87214:87457" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="88272:88478" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="88705:88909" ph="SELECT creat... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="89225:89456" ph="SELECT count... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="89747:89980" ph="SELECT creat... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="94323:94447" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="94487:94610" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="117142:117294" ph="SELECT count... ${tablename(&quot;longbing_card_user_label&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="117795:117862" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="117909:117975" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="126328:126415" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="126470:126556" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="126600:126729" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="127074:127286" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="129372:129573" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="131941:132145" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="133685:133928" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="134362:134595" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="134979:135175" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="135917:135989" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="136135:136214" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="136362:136469" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="136629:136700" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="136846:136924" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="137072:137178" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="138647:138899" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="139108:139344" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="139751:139947" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="140751:140823" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="140980:141059" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="141218:141325" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="141500:141571" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="141728:141806" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="141965:142071" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="143045:143253" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="143690:143890" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="144308:144489" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="145340:145412" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="145568:145647" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="145805:145912" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="146090:146161" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="146317:146395" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="146553:146659" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="147067:147322" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="147750:147987" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="148408:148604" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="149458:149530" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="149689:149768" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="149929:150036" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="150217:150288" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="150447:150525" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="150686:150792" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="151893:152056" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="153555:153754" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="154296:154460" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="154488:154652" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="154680:154810" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="154872:155035" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="155063:155226" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="155254:155383" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="157899:158000" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="158020:158121" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="158346:158475" ph="SELECT id,la... ${tablename(&quot;longbing_card_user_label&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="159698:159897" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="160593:160769" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="160885:161031" ph="SELECT * FRO... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="161167:161341" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="161458:161632" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="161775:161950" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="162066:162211" ph="SELECT * FRO... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="162347:162520" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="162637:162810" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="164539:164938" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="166678:166907" ph="SELECT b.* F... ${tablename(&quot;longbing_card_collection&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="166953:167159" ph="SELECT b.* F... ${tablename(&quot;longbing_card_collection&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="168405:168507" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="168555:168642" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="177917:178066" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="178115:178252" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="178302:178530" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="178598:178779" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="178828:178997" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="179047:179309" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="186162:186337" ph="SELECT id FR... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="186388:186554" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="186605:186772" ph="SELECT id FR... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="186823:187018" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="187058:187253" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="187293:187490" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="188196:188458" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="213094:213185" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="213517:213629" ph="SELECT * FRO... ${tablename(&quot;longbing_card_client_info&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="214167:214282" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="214691:214777" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="214840:214925" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="244069:244280" ph="SELECT id,us... ${tablename(&quot;longbing_card_chat&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="269243:269338" ph="DELETE FROM " />
-                <marker date="1554798148237" expanded="false" signature="269361:269467" ph="DELETE FROM " />
-                <marker date="1554798148237" expanded="false" signature="274561:274656" ph="DELETE FROM " />
-                <marker date="1554798148237" expanded="false" signature="274679:274785" ph="DELETE FROM " />
-                <marker date="1554798148237" expanded="false" signature="278009:278104" ph="DELETE FROM " />
-                <marker date="1554798148237" expanded="false" signature="278127:278233" ph="DELETE FROM " />
-                <marker date="1554798148237" expanded="false" signature="294350:294506" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="294795:294927" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="295423:295569" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="295645:295802" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="296561:296780" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="296911:297197" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="297537:297729" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="298049:298217" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="298713:298865" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="298941:299093" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="299914:300205" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="300336:300730" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="302274:302488" ph="SELECT id, t... ${tablename(&quot;longbing_card_shop_order&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="303004:303144" ph="SELECT id FR... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="303369:303550" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="303764:303914" ph="SELECT user_... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="304140:304241" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="304370:304550" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="304662:304821" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="306372:306507" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="306630:306767" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="306896:307036" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="307607:307966" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="308144:308281" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="308483:308600" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="308795:308932" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="310627:310783" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="311072:311204" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="311700:311846" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="311922:312079" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="312478:312697" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="312828:313114" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="313454:313646" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="313966:314134" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="314630:314782" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="314858:315010" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="315440:315731" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="315862:316256" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="318987:319127" ph="SELECT id FR... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="320375:320556" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="320693:320905" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="320961:321169" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="322102:322252" ph="SELECT user_... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="322906:323007" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="323112:323292" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="323380:323539" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="324633:324768" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="324879:325016" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="325133:325273" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="326126:326485" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="326635:326772" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="326946:327063" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="327230:327367" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="328435:328585" ph="SELECT count... ${tablename(&quot;longbing_card_collection&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="328664:328948" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="330385:330571" ph="SELECT count... ${tablename(&quot;longbing_card_collection&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="330650:330901" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="332907:333158" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="335440:335691" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="337171:337422" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="337556:337663" ph="SELECT id FR... ${tablename(&quot;longbing_card_rate&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="339080:339315" ph="SELECT a.id,... ${tablename(&quot;longbing_card_collection&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="340613:340825" ph="SELECT a.id,... ${tablename(&quot;longbing_card_collection&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="350905:351091" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="351410:351575" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="352071:352217" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="352293:352450" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="352870:353149" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="353285:353661" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="354007:354229" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="354579:354747" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="355243:355395" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="355471:355623" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="356078:356429" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="356565:357049" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="358632:358733" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="358838:359018" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="359106:359265" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="360044:360179" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="360290:360427" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="360544:360684" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="361194:361553" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="361704:361841" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="362016:362133" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
-                <marker date="1554798148237" expanded="false" signature="362301:362438" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <element signature="e#397343#399854#0#PHP" />
+                <element signature="e#399870#401121#0#PHP" />
+                <element signature="e#401126#401327#0#PHP" />
+                <element signature="e#401347#402028#0#PHP" />
+                <element signature="e#402044#402973#0#PHP" />
+                <element signature="e#402987#403269#0#PHP" />
+                <element signature="e#403274#403492#0#PHP" />
+                <element signature="e#403514#403958#0#PHP" />
+                <element signature="e#405189#406354#0#PHP" />
+                <element signature="e#406375#406734#0#PHP" />
+                <marker date="1554973192099" expanded="false" signature="14528:14749" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="15093:15210" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="15275:15389" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="15533:15722" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="15822:16011" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="19691:19912" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="20320:20437" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="20502:20616" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="20760:20949" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="21049:21238" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="25974:26195" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="26293:26482" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="26582:26771" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="28120:28258" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="28306:28443" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="28804:28956" ph="SELECT id, u... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="33988:34140" ph="SELECT id, u... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="47170:47385" ph="SELECT id,ti... ${tablename(&quot;longbing_card_timeline&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="47429:47549" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="56469:56489" ph="..." />
+                <marker date="1554973192099" expanded="false" signature="71875:72064" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="72175:72364" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="72474:72663" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="72778:72969" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="73842:74042" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="74169:74340" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="74467:74614" ph="SELECT count... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="74729:74901" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="75025:75197" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="75319:75519" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="75637:75809" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="75935:76106" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="76232:76403" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="true" signature="77282:77678" ph="SELECT a.id,... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="79228:79408" ph="SELECT count... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="81629:81842" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="81898:82122" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="82204:82397" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="82464:82681" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="86892:87136" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="87214:87457" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="88272:88478" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="88705:88909" ph="SELECT creat... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="89225:89456" ph="SELECT count... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="89747:89980" ph="SELECT creat... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="94323:94447" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="94487:94610" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="117142:117294" ph="SELECT count... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="117795:117862" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="117909:117975" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="126328:126415" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="126470:126556" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="126600:126729" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="127074:127286" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="129372:129573" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="131941:132145" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="133685:133928" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="134362:134595" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="134979:135175" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="135917:135989" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="136135:136214" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="136362:136469" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="136629:136700" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="136846:136924" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="137072:137178" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="138647:138899" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="139108:139344" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="139751:139947" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="140751:140823" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="140980:141059" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="141218:141325" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="141500:141571" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="141728:141806" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="141965:142071" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="143045:143253" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="143690:143890" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="144308:144489" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="145340:145412" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="145568:145647" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="145805:145912" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="146090:146161" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="146317:146395" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="146553:146659" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="147067:147322" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="147750:147987" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="148408:148604" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="149458:149530" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="149689:149768" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="149929:150036" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="150217:150288" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="150447:150525" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="150686:150792" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="151893:152056" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="153555:153754" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="154296:154460" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="154488:154652" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="154680:154810" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="154872:155035" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="155063:155226" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="155254:155383" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="157899:158000" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="158020:158121" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="158346:158475" ph="SELECT id,la... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="159698:159897" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="160593:160769" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="160885:161031" ph="SELECT * FRO... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="161167:161341" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="161458:161632" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="161775:161950" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="162066:162211" ph="SELECT * FRO... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="162347:162520" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="162637:162810" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="164539:164938" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="166678:166907" ph="SELECT b.* F... ${tablename(&quot;longbing_card_collection&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="166953:167159" ph="SELECT b.* F... ${tablename(&quot;longbing_card_collection&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="168405:168507" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="168555:168642" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="177917:178066" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="178115:178252" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="178302:178530" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="178598:178779" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="178828:178997" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="179047:179309" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="186162:186337" ph="SELECT id FR... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="186388:186554" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="186605:186772" ph="SELECT id FR... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="186823:187018" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="187058:187253" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="187293:187490" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="188196:188458" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="213094:213185" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="213517:213629" ph="SELECT * FRO... ${tablename(&quot;longbing_card_client_info&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="214167:214282" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="214691:214777" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="214840:214925" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="244069:244280" ph="SELECT id,us... ${tablename(&quot;longbing_card_chat&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="269243:269338" ph="DELETE FROM " />
+                <marker date="1554973192099" expanded="false" signature="269361:269467" ph="DELETE FROM " />
+                <marker date="1554973192099" expanded="false" signature="274561:274656" ph="DELETE FROM " />
+                <marker date="1554973192099" expanded="false" signature="274679:274785" ph="DELETE FROM " />
+                <marker date="1554973192099" expanded="false" signature="278009:278104" ph="DELETE FROM " />
+                <marker date="1554973192099" expanded="false" signature="278127:278233" ph="DELETE FROM " />
+                <marker date="1554973192099" expanded="false" signature="294350:294506" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="294795:294927" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="295423:295569" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="295645:295802" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="296561:296780" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="296911:297197" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="297537:297729" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="298049:298217" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="298713:298865" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="298941:299093" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="299914:300205" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="300336:300730" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="302274:302488" ph="SELECT id, t... ${tablename(&quot;longbing_card_shop_order&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="303004:303144" ph="SELECT id FR... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="303369:303550" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="303764:303914" ph="SELECT user_... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="304140:304241" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="304370:304550" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="304662:304821" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="306372:306507" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="306630:306767" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="306896:307036" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="307607:307966" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="308144:308281" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="308483:308600" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="308795:308932" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="310627:310783" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="311072:311204" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="311700:311846" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="311922:312079" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="312478:312697" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="312828:313114" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="313454:313646" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="313966:314134" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="314630:314782" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="314858:315010" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="315440:315731" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="315862:316256" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="318987:319127" ph="SELECT id FR... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="320375:320556" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="320693:320905" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="320961:321169" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="322102:322252" ph="SELECT user_... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="322906:323007" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="323112:323292" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="323380:323539" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="324633:324768" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="324879:325016" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="325133:325273" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="326126:326485" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="326635:326772" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="326946:327063" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="327230:327367" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="328435:328585" ph="SELECT count... ${tablename(&quot;longbing_card_collection&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="328664:328948" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="330385:330571" ph="SELECT count... ${tablename(&quot;longbing_card_collection&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="330650:330901" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="332907:333158" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="335440:335691" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="337171:337422" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="337556:337663" ph="SELECT id FR... ${tablename(&quot;longbing_card_rate&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="339080:339315" ph="SELECT a.id,... ${tablename(&quot;longbing_card_collection&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="340613:340825" ph="SELECT a.id,... ${tablename(&quot;longbing_card_collection&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="350905:351091" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="351410:351575" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="352071:352217" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="352293:352450" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="352870:353149" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="353285:353661" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="354007:354229" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="354579:354747" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="355243:355395" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="355471:355623" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="356078:356429" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="356565:357049" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="358632:358733" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="358838:359018" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="359106:359265" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="360044:360179" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="360290:360427" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="360544:360684" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="361194:361553" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="361704:361841" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="362016:362133" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
+                <marker date="1554973192099" expanded="false" signature="362301:362438" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
               </folding>
             </state>
           </provider>
@@ -1246,9 +1251,9 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-121" />
-    <option name="y" value="124" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="67" />
+    <option name="y" value="63" />
     <option name="width" value="1932" />
     <option name="height" value="1031" />
   </component>
@@ -1329,17 +1334,18 @@
       <workItem from="1554079970730" duration="1317000" />
       <workItem from="1554687849993" duration="598000" />
       <workItem from="1554689119620" duration="6215000" />
+      <workItem from="1554953520422" duration="4768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197074000" />
+    <option name="totallyTimeSpent" value="201842000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-121" y="124" width="1932" height="1031" extended-state="1" />
+    <frame x="67" y="63" width="1932" height="1031" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120726496" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12179487" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1753,8 +1759,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wxapp.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="7952" column="26" selection-start-line="7952" selection-start-column="18" selection-end-line="7952" selection-end-column="26" />
+        <state relative-caret-position="386">
+          <caret line="7892" column="24" selection-start-line="7892" selection-start-column="24" selection-end-line="7892" selection-end-column="24" />
           <folding>
             <element signature="e#1013#3578#0#PHP" />
             <element signature="e#1099#1266#0#PHP" />
@@ -2649,238 +2655,243 @@
             <element signature="e#394528#396118#0#PHP" />
             <element signature="e#394682#394793#0#PHP" />
             <element signature="e#396136#396360#0#PHP" />
-            <element signature="e#396385#397326#0#PHP" />
-            <element signature="e#399001#400252#0#PHP" />
-            <element signature="e#400257#400458#0#PHP" />
-            <element signature="e#400478#401159#0#PHP" />
-            <element signature="e#401175#402104#0#PHP" />
-            <marker date="1554798148237" expanded="false" signature="14528:14749" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="15093:15210" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="15275:15389" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="15533:15722" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="15822:16011" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="19691:19912" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="20320:20437" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="20502:20616" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="20760:20949" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="21049:21238" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="25974:26195" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="26293:26482" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="26582:26771" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="28120:28258" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="28306:28443" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="28804:28956" ph="SELECT id, u... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="33988:34140" ph="SELECT id, u... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="47170:47385" ph="SELECT id,ti... ${tablename(&quot;longbing_card_timeline&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="47429:47549" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="56469:56489" ph="..." />
-            <marker date="1554798148237" expanded="false" signature="71875:72064" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="72175:72364" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="72474:72663" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="72778:72969" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="73842:74042" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="74169:74340" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="74467:74614" ph="SELECT count... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="74729:74901" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="75025:75197" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="75319:75519" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="75637:75809" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="75935:76106" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="76232:76403" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="true" signature="77282:77678" ph="SELECT a.id,... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="79228:79408" ph="SELECT count... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="81629:81842" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="81898:82122" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="82204:82397" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="82464:82681" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="86892:87136" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="87214:87457" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="88272:88478" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="88705:88909" ph="SELECT creat... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="89225:89456" ph="SELECT count... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="89747:89980" ph="SELECT creat... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="94323:94447" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="94487:94610" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="117142:117294" ph="SELECT count... ${tablename(&quot;longbing_card_user_label&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="117795:117862" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="117909:117975" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="126328:126415" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="126470:126556" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="126600:126729" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="127074:127286" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="129372:129573" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="131941:132145" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="133685:133928" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="134362:134595" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="134979:135175" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="135917:135989" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="136135:136214" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="136362:136469" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="136629:136700" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="136846:136924" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="137072:137178" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="138647:138899" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="139108:139344" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="139751:139947" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="140751:140823" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="140980:141059" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="141218:141325" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="141500:141571" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="141728:141806" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="141965:142071" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="143045:143253" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="143690:143890" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="144308:144489" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="145340:145412" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="145568:145647" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="145805:145912" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="146090:146161" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="146317:146395" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="146553:146659" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="147067:147322" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="147750:147987" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="148408:148604" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="149458:149530" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="149689:149768" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="149929:150036" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="150217:150288" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="150447:150525" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="150686:150792" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="151893:152056" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="153555:153754" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="154296:154460" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="154488:154652" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="154680:154810" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="154872:155035" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="155063:155226" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="155254:155383" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="157899:158000" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="158020:158121" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="158346:158475" ph="SELECT id,la... ${tablename(&quot;longbing_card_user_label&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="159698:159897" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="160593:160769" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="160885:161031" ph="SELECT * FRO... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="161167:161341" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="161458:161632" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="161775:161950" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="162066:162211" ph="SELECT * FRO... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="162347:162520" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="162637:162810" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="164539:164938" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="166678:166907" ph="SELECT b.* F... ${tablename(&quot;longbing_card_collection&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="166953:167159" ph="SELECT b.* F... ${tablename(&quot;longbing_card_collection&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="168405:168507" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="168555:168642" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="177917:178066" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="178115:178252" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="178302:178530" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="178598:178779" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="178828:178997" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="179047:179309" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="186162:186337" ph="SELECT id FR... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="186388:186554" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="186605:186772" ph="SELECT id FR... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="186823:187018" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="187058:187253" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="187293:187490" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="188196:188458" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="213094:213185" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="213517:213629" ph="SELECT * FRO... ${tablename(&quot;longbing_card_client_info&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="214167:214282" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="214691:214777" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="214840:214925" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="244069:244280" ph="SELECT id,us... ${tablename(&quot;longbing_card_chat&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="269243:269338" ph="DELETE FROM " />
-            <marker date="1554798148237" expanded="false" signature="269361:269467" ph="DELETE FROM " />
-            <marker date="1554798148237" expanded="false" signature="274561:274656" ph="DELETE FROM " />
-            <marker date="1554798148237" expanded="false" signature="274679:274785" ph="DELETE FROM " />
-            <marker date="1554798148237" expanded="false" signature="278009:278104" ph="DELETE FROM " />
-            <marker date="1554798148237" expanded="false" signature="278127:278233" ph="DELETE FROM " />
-            <marker date="1554798148237" expanded="false" signature="294350:294506" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="294795:294927" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="295423:295569" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="295645:295802" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="296561:296780" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="296911:297197" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="297537:297729" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="298049:298217" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="298713:298865" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="298941:299093" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="299914:300205" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="300336:300730" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="302274:302488" ph="SELECT id, t... ${tablename(&quot;longbing_card_shop_order&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="303004:303144" ph="SELECT id FR... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="303369:303550" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="303764:303914" ph="SELECT user_... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="304140:304241" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="304370:304550" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="304662:304821" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="306372:306507" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="306630:306767" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="306896:307036" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="307607:307966" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="308144:308281" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="308483:308600" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="308795:308932" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="310627:310783" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="311072:311204" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="311700:311846" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="311922:312079" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="312478:312697" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="312828:313114" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="313454:313646" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="313966:314134" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="314630:314782" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="314858:315010" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="315440:315731" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="315862:316256" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="318987:319127" ph="SELECT id FR... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="320375:320556" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="320693:320905" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="320961:321169" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="322102:322252" ph="SELECT user_... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="322906:323007" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="323112:323292" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="323380:323539" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="324633:324768" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="324879:325016" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="325133:325273" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="326126:326485" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="326635:326772" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="326946:327063" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="327230:327367" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="328435:328585" ph="SELECT count... ${tablename(&quot;longbing_card_collection&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="328664:328948" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="330385:330571" ph="SELECT count... ${tablename(&quot;longbing_card_collection&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="330650:330901" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="332907:333158" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="335440:335691" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="337171:337422" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="337556:337663" ph="SELECT id FR... ${tablename(&quot;longbing_card_rate&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="339080:339315" ph="SELECT a.id,... ${tablename(&quot;longbing_card_collection&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="340613:340825" ph="SELECT a.id,... ${tablename(&quot;longbing_card_collection&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="350905:351091" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="351410:351575" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="352071:352217" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="352293:352450" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="352870:353149" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="353285:353661" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="354007:354229" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="354579:354747" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="355243:355395" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="355471:355623" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="356078:356429" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="356565:357049" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="358632:358733" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="358838:359018" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="359106:359265" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="360044:360179" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="360290:360427" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="360544:360684" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="361194:361553" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="361704:361841" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="362016:362133" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
-            <marker date="1554798148237" expanded="false" signature="362301:362438" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <element signature="e#397343#399854#0#PHP" />
+            <element signature="e#399870#401121#0#PHP" />
+            <element signature="e#401126#401327#0#PHP" />
+            <element signature="e#401347#402028#0#PHP" />
+            <element signature="e#402044#402973#0#PHP" />
+            <element signature="e#402987#403269#0#PHP" />
+            <element signature="e#403274#403492#0#PHP" />
+            <element signature="e#403514#403958#0#PHP" />
+            <element signature="e#405189#406354#0#PHP" />
+            <element signature="e#406375#406734#0#PHP" />
+            <marker date="1554973192099" expanded="false" signature="14528:14749" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="15093:15210" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="15275:15389" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="15533:15722" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="15822:16011" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="19691:19912" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="20320:20437" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="20502:20616" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="20760:20949" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="21049:21238" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="25974:26195" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="26293:26482" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="26582:26771" ph="SELECT user_... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="28120:28258" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="28306:28443" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="28804:28956" ph="SELECT id, u... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="33988:34140" ph="SELECT id, u... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="47170:47385" ph="SELECT id,ti... ${tablename(&quot;longbing_card_timeline&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="47429:47549" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="56469:56489" ph="..." />
+            <marker date="1554973192099" expanded="false" signature="71875:72064" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="72175:72364" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="72474:72663" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="72778:72969" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="73842:74042" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="74169:74340" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="74467:74614" ph="SELECT count... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="74729:74901" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="75025:75197" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="75319:75519" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="75637:75809" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="75935:76106" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="76232:76403" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="true" signature="77282:77678" ph="SELECT a.id,... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="79228:79408" ph="SELECT count... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="81629:81842" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="81898:82122" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="82204:82397" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="82464:82681" ph="SELECT id,us... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="86892:87136" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="87214:87457" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="88272:88478" ph="SELECT count... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="88705:88909" ph="SELECT creat... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="89225:89456" ph="SELECT count... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="89747:89980" ph="SELECT creat... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="94323:94447" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="94487:94610" ph="SELECT id,`n... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="117142:117294" ph="SELECT count... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="117795:117862" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="117909:117975" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="126328:126415" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="126470:126556" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="126600:126729" ph="SELECT id,co... ${tablename(&quot;longbing_card_goods&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="127074:127286" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="129372:129573" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="131941:132145" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="133685:133928" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="134362:134595" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="134979:135175" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="135917:135989" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="136135:136214" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="136362:136469" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="136629:136700" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="136846:136924" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="137072:137178" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="138647:138899" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="139108:139344" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="139751:139947" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="140751:140823" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="140980:141059" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="141218:141325" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="141500:141571" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="141728:141806" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="141965:142071" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="143045:143253" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="143690:143890" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="144308:144489" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="145340:145412" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="145568:145647" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="145805:145912" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="146090:146161" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="146317:146395" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="146553:146659" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="147067:147322" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="147750:147987" ph="SELECT updat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="148408:148604" ph="SELECT clien... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="149458:149530" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="149689:149768" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="149929:150036" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="150217:150288" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="150447:150525" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="150686:150792" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="151893:152056" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="153555:153754" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="154296:154460" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="154488:154652" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="154680:154810" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="154872:155035" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="155063:155226" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="155254:155383" ph="SELECT id FR... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="157899:158000" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="158020:158121" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="158346:158475" ph="SELECT id,la... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="159698:159897" ph="SELECT creat... ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="160593:160769" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="160885:161031" ph="SELECT * FRO... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="161167:161341" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="161458:161632" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="161775:161950" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="162066:162211" ph="SELECT * FRO... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="162347:162520" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="162637:162810" ph="SELECT * FRO... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="164539:164938" ph="SELECT sum( ${tablename(&quot;longbing_card_share_group&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="166678:166907" ph="SELECT b.* F... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="166953:167159" ph="SELECT b.* F... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="168405:168507" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="168555:168642" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="177917:178066" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="178115:178252" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="178302:178530" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="178598:178779" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_follow&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="178828:178997" ph="SELECT id,us... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="179047:179309" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="186162:186337" ph="SELECT id FR... ${tablename(&quot;longbing_card_custom_qr_record&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="186388:186554" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="186605:186772" ph="SELECT id FR... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="186823:187018" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="187058:187253" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="187293:187490" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="188196:188458" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_label&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="213094:213185" ph="SELECT * FRO... ${tablename(&quot;longbing_card_label&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="213517:213629" ph="SELECT * FRO... ${tablename(&quot;longbing_card_client_info&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="214167:214282" ph="SELECT * FRO... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="214691:214777" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="214840:214925" ph="SELECT id,ni... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="244069:244280" ph="SELECT id,us... ${tablename(&quot;longbing_card_chat&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="269243:269338" ph="DELETE FROM " />
+            <marker date="1554973192099" expanded="false" signature="269361:269467" ph="DELETE FROM " />
+            <marker date="1554973192099" expanded="false" signature="274561:274656" ph="DELETE FROM " />
+            <marker date="1554973192099" expanded="false" signature="274679:274785" ph="DELETE FROM " />
+            <marker date="1554973192099" expanded="false" signature="278009:278104" ph="DELETE FROM " />
+            <marker date="1554973192099" expanded="false" signature="278127:278233" ph="DELETE FROM " />
+            <marker date="1554973192099" expanded="false" signature="294350:294506" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="294795:294927" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="295423:295569" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="295645:295802" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="296561:296780" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="296911:297197" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="297537:297729" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="298049:298217" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="298713:298865" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="298941:299093" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="299914:300205" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="300336:300730" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="302274:302488" ph="SELECT id, t... ${tablename(&quot;longbing_card_shop_order&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="303004:303144" ph="SELECT id FR... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="303369:303550" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="303764:303914" ph="SELECT user_... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="304140:304241" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="304370:304550" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="304662:304821" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="306372:306507" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="306630:306767" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="306896:307036" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="307607:307966" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="308144:308281" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="308483:308600" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="308795:308932" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="310627:310783" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="311072:311204" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="311700:311846" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="311922:312079" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="312478:312697" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="312828:313114" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="313454:313646" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="313966:314134" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="314630:314782" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="314858:315010" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="315440:315731" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="315862:316256" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="318987:319127" ph="SELECT id FR... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="320375:320556" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="320693:320905" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="320961:321169" ph="SELECT user_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="322102:322252" ph="SELECT user_... ${tablename(&quot;longbing_card_user_mark&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="322906:323007" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="323112:323292" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="323380:323539" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="324633:324768" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="324879:325016" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="325133:325273" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="326126:326485" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="326635:326772" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="326946:327063" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="327230:327367" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="328435:328585" ph="SELECT count... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="328664:328948" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="330385:330571" ph="SELECT count... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="330650:330901" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="332907:333158" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="335440:335691" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="337171:337422" ph="SELECT a.id,... ${tablename(&quot;longbing_card_user_info&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="337556:337663" ph="SELECT id FR... ${tablename(&quot;longbing_card_rate&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="339080:339315" ph="SELECT a.id,... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="340613:340825" ph="SELECT a.id,... ${tablename(&quot;longbing_card_collection&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="350905:351091" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="351410:351575" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="352071:352217" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="352293:352450" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="352870:353149" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="353285:353661" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="354007:354229" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="354579:354747" ph="SELECT chat_... ${tablename(&quot;longbing_card_message&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="355243:355395" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="355471:355623" ph="SELECT COUNT... ${tablename(&quot;longbing_card_user&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="356078:356429" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="356565:357049" ph="SELECT COUNT... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="358632:358733" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="358838:359018" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="359106:359265" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="360044:360179" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="360290:360427" ph="SELECT id FR... ${tablename(&quot;longbing_card_forward&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="360544:360684" ph="SELECT id FR... ${tablename(&quot;longbing_card_user_phone&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="361194:361553" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="361704:361841" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="362016:362133" ph="SELECT id FR... ${tablename(&quot;longbing_card_timeline_comment&quot;)}" />
+            <marker date="1554973192099" expanded="false" signature="362301:362438" ph="SELECT id FR... ${tablename(&quot;longbing_card_count&quot;)}" />
           </folding>
         </state>
       </provider>

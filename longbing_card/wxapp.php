@@ -7890,6 +7890,19 @@ class Longbing_cardModuleWxapp extends WeModuleWxapp
         if ($getuserinfo['level']==0&&$getuserinfo['leveltype']==0){
             if ($day>=7){
                 //体验用户已过期
+                //3天提现一次
+//                if ($getuserinfo['checkpasstime']){
+//                    $passtimer = strtotime($getuserinfo['checkpasstime']);
+//                    $diffpasstime = $_SERVER['REQUEST_TIME'] - $passtimer;
+//                    $passtimeday = floor($diffpasstime / 86400);
+//                    if ($passtimeday>=3){
+//                        $getuserinfo['ispasstime']=1;
+//                    }else{
+//                        $getuserinfo['ispasstime']=0;
+//                    }
+//                }else{
+//                    $getuserinfo['ispasstime']=1;
+//                }
                 $getuserinfo['ispasstime']=1;
             }else{
                 $getuserinfo['ispasstime']=0;
@@ -8037,6 +8050,13 @@ class Longbing_cardModuleWxapp extends WeModuleWxapp
         $uid=$_GPC['uid'];
         pdo_update("longbing_card_user",array('issend'=>1),array('id'=>$uid));
         echo  $this->result(0, "已阅读",'');
+    }
+    //添加3天提现一次的时间
+    public function doPageAddpasstime(){
+        global $_W, $_GPC;
+        $uid=$_GPC['user_id'];
+        pdo_update("longbing_card_user",array('checkpasstime'=>date('Y-m-d H:i:s',time())),array('id'=>$uid));
+        echo  $this->result(0, "已记录时间",'');
     }
     //后端的随机生成邀请码
     public function doPageAddrandcode(){
